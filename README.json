@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T19:38:05Z",
+            "last_commit": "2026-08-15T17:09:39Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
             "stars": 5185
@@ -643,7 +643,7 @@
             "last_commit": "2024-01-09T10:17:34Z",
             "owner": "OneLoneCoder",
             "repo": "olcNES",
-            "stars": 1535
+            "stars": 1536
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2021-05-03T20:33:50Z",
             "owner": "spencertipping",
             "repo": "jit-tutorial",
-            "stars": 1934
+            "stars": 1935
           }
         },
         {
@@ -980,7 +980,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:25:51.377Z",
+    "last_updated": "2026-08-16T03:35:21.914Z",
     "original_repository": "marethyu/awesome-emu-resources",
     "original_repository_sha": "10c218f08bb4db92c1665ca08641d11365d8a5cd",
     "enhanced_repository": "enhansome/enhansome-emu-resources",

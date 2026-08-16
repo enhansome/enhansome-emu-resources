@@ -9,7 +9,7 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,185 | 🐛 31 | 🌐 Python | 📅 2026-08-12
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,185 | 🐛 31 | 🌐 Python | 📅 2026-08-15
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 467 | 🐛 5 | 🌐 C++ | 📅 2025-11-25
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 213 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 213 | 🐛 0 | 🌐 C | 📅 2026-01-25
@@ -145,7 +145,7 @@
 
 * <https://github.com/PeterLemon/GBA> ⭐ 144 | 🐛 1 | 🌐 Assembly | 📅 2021-05-27
 * <https://github.com/jsmolka/gba-suite> ⭐ 134 | 🐛 0 | 🌐 Assembly | 📅 2025-04-19
-* <https://github.com/mgba-emu/suite> ⭐ 102 | 🐛 8 | 🌐 C | 📅 2026-07-09
+* <https://github.com/mgba-emu/suite> ⭐ 102 | 🐛 9 | 🌐 C | 📅 2026-07-09
 * <https://github.com/shonumi/Emu-Docs/tree/master/GameBoy%20Advance/test_roms> ⭐ 94 | 🐛 0 | 🌐 HTML | 📅 2015-10-29
 * <https://github.com/DenSinH/FuzzARM> ⭐ 51 | 🐛 0 | 🌐 Assembly | 📅 2022-06-14
 * <https://github.com/nba-emu/hw-test> ⚠️ Archived
@@ -229,7 +229,7 @@
 ### Implementation
 
 * <https://github.com/amhndu/SimpleNES> ⭐ 5,103 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
-* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,535 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
+* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,536 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
 * <https://github.com/AndreaOrru/LaiNES> ⭐ 1,518 | 🐛 10 | 🌐 C++ | 📅 2025-11-06
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2022-07-18
 * <https://github.com/Xyene/Emulator.NES> ⭐ 186 | 🐛 0 | 🌐 C# | 📅 2018-10-14
@@ -286,7 +286,7 @@
 
 ### Guides
 
-* <https://github.com/simias/psx-guide> ⭐ 318 | 🐛 8 | 🌐 TeX | 📅 2023-03-21
+* <https://github.com/simias/psx-guide> ⭐ 319 | 🐛 8 | 🌐 TeX | 📅 2023-03-21
 * <https://www.reddit.com/r/EmuDev/comments/fmhtcn>
 * <https://www.reddit.com/r/emulation/comments/8017j9/how_does_playstations_texture_cache_work/> (also see the same question posted earlier)
 
@@ -316,7 +316,7 @@
 
 ## JIT
 
-* <https://github.com/spencertipping/jit-tutorial> ⭐ 1,934 | 🐛 0 | 🌐 C | 📅 2021-05-03
+* <https://github.com/spencertipping/jit-tutorial> ⭐ 1,935 | 🐛 0 | 🌐 C | 📅 2021-05-03
 * <https://github.com/tekknolagi/ghuloum> ⭐ 72 | 🐛 3 | 🌐 C | 📅 2025-11-15
 * <https://github.com/antocuni/jit30min> ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2019-07-11
 * <https://csl.name/post/python-jit/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
