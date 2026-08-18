@@ -10,7 +10,7 @@
 ### Documentation
 
 * gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,186 | 🐛 31 | 🌐 Python | 📅 2026-08-15
-* wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 467 | 🐛 5 | 🌐 C++ | 📅 2026-08-16
+* wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 467 | 🐛 5 | 🌐 C++ | 📅 2026-08-17
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 213 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 213 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * ppu docs <https://github.com/mattcurrie/mealybug-tearoom-tests/blob/master/the-comprehensive-game-boy-ppu-documentation.md> ⭐ 70 | 🐛 0 | 🌐 Assembly | 📅 2020-12-19
@@ -40,7 +40,7 @@
 
 ### Tests
 
-* mooneye gb test roms <https://github.com/Gekkio/mooneye-gb/tree/master/tests> ⭐ 969 | 🐛 43 | 🌐 Rust | 📅 2023-03-16
+* mooneye gb test roms <https://github.com/Gekkio/mooneye-gb/tree/master/tests> ⭐ 970 | 🐛 43 | 🌐 Rust | 📅 2023-03-16
 * test roms <https://github.com/retrio/gb-test-roms> ⭐ 639 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
 * collection of test roms <https://github.com/c-sp/gameboy-test-roms> ⭐ 256 | 🐛 0 | 🌐 Shell | 📅 2025-04-27
 * yet another test roms <https://github.com/mattcurrie/mealybug-tearoom-tests> ⭐ 70 | 🐛 0 | 🌐 Assembly | 📅 2020-12-19
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,484 | 🐛 21 | 📅 2026-07-22
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,485 | 🐛 21 | 📅 2026-07-22
 * custom Boot ROM <https://github.com/Hacktix/Bootix> ⭐ 83 | 🐛 1 | 🌐 Assembly | 📅 2021-03-12
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
@@ -228,7 +228,7 @@
 
 ### Implementation
 
-* <https://github.com/amhndu/SimpleNES> ⭐ 5,103 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
+* <https://github.com/amhndu/SimpleNES> ⭐ 5,104 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
 * <https://github.com/OneLoneCoder/olcNES> ⭐ 1,536 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
 * <https://github.com/AndreaOrru/LaiNES> ⭐ 1,518 | 🐛 10 | 🌐 C++ | 📅 2025-11-06
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2022-07-18
@@ -312,7 +312,7 @@
 * <https://emudev.org/2020/03/27/PSX_BIOS.html>
 * psx section in <https://emudev.org/system_resources>
 * <http://lameguy64.net/tutorials/pstutorials/index.html> (has some good explanations on various stuff)
-* <https://github.com/m35/jpsxdec/blob/readme/jpsxdec/PlayStation1_STR_format.txt> ⭐ 594 | 🐛 46 | 🌐 Java | 📅 2026-05-17
+* <https://github.com/m35/jpsxdec/blob/readme/jpsxdec/PlayStation1_STR_format.txt> ⭐ 595 | 🐛 46 | 🌐 Java | 📅 2026-05-17
 
 ## JIT
 
@@ -326,7 +326,7 @@
 * emu docs <https://github.com/shonumi/Emu-Docs> ⭐ 94 | 🐛 0 | 🌐 HTML | 📅 2015-10-29
 * japanese docs <https://github.com/pokemium/emu-docs-ja> ⭐ 26 | 🐛 0 | 📅 2025-08-15
 * Common bugs <https://github.com/mattrberry/common-emudev-bugs> ⭐ 18 | 🐛 1 | 📅 2025-06-28
-* collection of 8 bit processor emulators <https://github.com/MoleskiCoder/EightBit> ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2026-08-16
+* collection of 8 bit processor emulators <https://github.com/MoleskiCoder/EightBit> ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2026-08-17
 * emudev <http://emudev.de/>
 * Guide to writing emulators <http://emulator101.com/>
 * How emulators work <http://imrannazar.com/How-Emulators-Work%3A-a-presentation>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

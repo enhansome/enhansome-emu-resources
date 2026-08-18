@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T18:05:19Z",
+            "last_commit": "2026-08-17T19:25:59Z",
             "owner": "Dooskington",
             "repo": "GameLad",
             "stars": 467
@@ -95,7 +95,7 @@
             "last_commit": "2023-03-16T03:58:55Z",
             "owner": "Gekkio",
             "repo": "mooneye-gb",
-            "stars": 969
+            "stars": 970
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-07-22T19:03:27Z",
             "owner": "gbdev",
             "repo": "awesome-gbdev",
-            "stars": 4484
+            "stars": 4485
           }
         },
         {
@@ -629,7 +629,7 @@
             "last_commit": "2025-10-05T11:37:38Z",
             "owner": "amhndu",
             "repo": "SimpleNES",
-            "stars": 5103
+            "stars": 5104
           }
         },
         {
@@ -969,7 +969,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T21:05:44Z",
+            "last_commit": "2026-08-17T11:00:15Z",
             "owner": "MoleskiCoder",
             "repo": "EightBit",
             "stars": 16
@@ -980,7 +980,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:35:59.941Z",
+    "last_updated": "2026-08-18T03:31:48.970Z",
     "original_repository": "marethyu/awesome-emu-resources",
     "original_repository_sha": "10c218f08bb4db92c1665ca08641d11365d8a5cd",
     "enhanced_repository": "enhansome/enhansome-emu-resources",
