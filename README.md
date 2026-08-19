@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 982 | 🐛 151 | 🌐 C++ | 📅 2026-08-12 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 982 | 🐛 152 | 🌐 C++ | 📅 2026-08-12 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
