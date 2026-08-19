@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T19:25:59Z",
+            "last_commit": "2026-08-18T23:41:20Z",
             "owner": "Dooskington",
             "repo": "GameLad",
             "stars": 467
@@ -47,7 +47,7 @@
             "last_commit": "2026-01-25T02:02:07Z",
             "owner": "AntonioND",
             "repo": "giibiiadvance",
-            "stars": 213
+            "stars": 214
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-01-25T02:02:07Z",
             "owner": "AntonioND",
             "repo": "giibiiadvance",
-            "stars": 213
+            "stars": 214
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-01-25T02:02:07Z",
             "owner": "AntonioND",
             "repo": "giibiiadvance",
-            "stars": 213
+            "stars": 214
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2026-01-30T13:27:32Z",
             "owner": "gbadev-org",
             "repo": "awesome-gbadev",
-            "stars": 1327
+            "stars": 1328
           }
         },
         {
@@ -629,7 +629,7 @@
             "last_commit": "2025-10-05T11:37:38Z",
             "owner": "amhndu",
             "repo": "SimpleNES",
-            "stars": 5104
+            "stars": 5103
           }
         },
         {
@@ -643,7 +643,7 @@
             "last_commit": "2024-01-09T10:17:34Z",
             "owner": "OneLoneCoder",
             "repo": "olcNES",
-            "stars": 1536
+            "stars": 1537
           }
         },
         {
@@ -859,7 +859,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T02:03:13Z",
+            "last_commit": "2026-08-19T00:17:56Z",
             "owner": "nicolasnoble",
             "repo": "pcsx-redux",
             "stars": 5
@@ -882,7 +882,7 @@
             "last_commit": "2021-05-03T20:33:50Z",
             "owner": "spencertipping",
             "repo": "jit-tutorial",
-            "stars": 1935
+            "stars": 1936
           }
         },
         {
@@ -969,7 +969,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T11:00:15Z",
+            "last_commit": "2026-08-18T14:24:50Z",
             "owner": "MoleskiCoder",
             "repo": "EightBit",
             "stars": 16
@@ -980,7 +980,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:31:48.970Z",
+    "last_updated": "2026-08-19T03:33:47.090Z",
     "original_repository": "marethyu/awesome-emu-resources",
     "original_repository_sha": "10c218f08bb4db92c1665ca08641d11365d8a5cd",
     "enhanced_repository": "enhansome/enhansome-emu-resources",
