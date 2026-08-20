@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 44641865,
                 "language": "C++",
-                "last_commit": "2026-08-18T23:41:20Z",
+                "last_commit": "2026-08-19T20:47:50Z",
                 "owner": "Dooskington",
                 "repo": "GameLad",
                 "stars": 467
@@ -166,7 +166,7 @@
                 "last_commit": "2026-07-22T19:03:27Z",
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4485
+                "stars": 4486
               }
             },
             {
@@ -440,7 +440,7 @@
                 "last_commit": "2015-10-29T05:25:46Z",
                 "owner": "shonumi",
                 "repo": "Emu-Docs",
-                "stars": 94
+                "stars": 95
               }
             },
             {
@@ -676,7 +676,7 @@
                 "last_commit": "2025-10-05T11:37:38Z",
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5103
+                "stars": 5104
               }
             },
             {
@@ -846,7 +846,7 @@
                 "last_commit": "2026-08-12T02:08:12Z",
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 982
+                "stars": 981
               }
             },
             {
@@ -925,7 +925,7 @@
                 "archived": false,
                 "id": 161513926,
                 "language": "C++",
-                "last_commit": "2026-08-19T04:25:08Z",
+                "last_commit": "2026-08-19T17:22:32Z",
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
                 "stars": 5
@@ -1005,7 +1005,7 @@
             "last_commit": "2015-10-29T05:25:46Z",
             "owner": "shonumi",
             "repo": "Emu-Docs",
-            "stars": 94
+            "stars": 95
           }
         },
         {
@@ -1058,7 +1058,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:30:18.213Z",
+    "last_updated": "2026-08-20T03:33:35.690Z",
     "original_repository": "marethyu/awesome-emu-resources",
     "original_repository_id": 293648117,
     "original_repository_sha": "10c218f08bb4db92c1665ca08641d11365d8a5cd",
