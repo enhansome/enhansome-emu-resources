@@ -9,7 +9,7 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,187 | 🐛 22 | 🌐 Python | 📅 2026-08-21
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,189 | 🐛 22 | 🌐 Python | 📅 2026-08-22
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 467 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,488 | 🐛 21 | 📅 2026-07-22
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,489 | 🐛 21 | 📅 2026-07-22
 * custom Boot ROM <https://github.com/Hacktix/Bootix> ⭐ 83 | 🐛 1 | 🌐 Assembly | 📅 2021-03-12
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
@@ -207,7 +207,7 @@
 ### Tests
 
 * <https://github.com/koute/pinky/tree/master/mos6502/roms> ⭐ 810 | 🐛 11 | 🌐 Rust | 📅 2023-11-27
-* <https://github.com/christopherpow/nes-test-roms> ⭐ 612 | 🐛 1 | 🌐 Assembly | 📅 2022-03-02
+* <https://github.com/christopherpow/nes-test-roms> ⭐ 613 | 🐛 1 | 🌐 Assembly | 📅 2022-03-02
 * <https://github.com/Klaus2m5/6502_65C02_functional_tests> ⭐ 519 | 🐛 5 | 📅 2023-03-07
 * <http://wiki.nesdev.com/w/index.php/Emulator_tests>
 * <http://www.qmtpro.com/~nes/misc/> (nestest inside)
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 982 | 🐛 152 | 🌐 C++ | 📅 2026-08-21 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 983 | 🐛 152 | 🌐 C++ | 📅 2026-08-21 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -324,7 +324,7 @@
 ## Miscellaneous
 
 * emu docs <https://github.com/shonumi/Emu-Docs> ⭐ 95 | 🐛 0 | 🌐 HTML | 📅 2015-10-29
-* japanese docs <https://github.com/pokemium/emu-docs-ja> ⭐ 26 | 🐛 0 | 📅 2025-08-15
+* japanese docs <https://github.com/pokemium/emu-docs-ja> ⭐ 27 | 🐛 0 | 📅 2025-08-15
 * Common bugs <https://github.com/mattrberry/common-emudev-bugs> ⭐ 18 | 🐛 1 | 📅 2025-06-28
 * collection of 8 bit processor emulators <https://github.com/MoleskiCoder/EightBit> ⭐ 15 | 🐛 0 | 🌐 C++ | 📅 2026-08-21
 * emudev <http://emudev.de/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

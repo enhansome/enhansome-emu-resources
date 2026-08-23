@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 36501634,
                 "language": "Python",
-                "last_commit": "2026-08-21T15:38:16Z",
+                "last_commit": "2026-08-22T14:05:56Z",
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5187
+                "stars": 5189
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-07-22T19:03:27Z",
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4488
+                "stars": 4489
               }
             },
             {
@@ -639,7 +639,7 @@
                 "last_commit": "2022-03-02T19:47:57Z",
                 "owner": "christopherpow",
                 "repo": "nes-test-roms",
-                "stars": 612
+                "stars": 613
               }
             },
             {
@@ -846,7 +846,7 @@
                 "last_commit": "2026-08-21T03:41:13Z",
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 982
+                "stars": 983
               }
             },
             {
@@ -1020,7 +1020,7 @@
             "last_commit": "2025-08-15T15:34:12Z",
             "owner": "akatsuki105",
             "repo": "emu-docs-ja",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -1058,7 +1058,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:29:04.530Z",
+    "last_updated": "2026-08-23T03:37:38.236Z",
     "original_repository": "marethyu/awesome-emu-resources",
     "original_repository_id": 293648117,
     "original_repository_sha": "10c218f08bb4db92c1665ca08641d11365d8a5cd",
