@@ -9,7 +9,7 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,189 | 🐛 21 | 🌐 Python | 📅 2026-08-23
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,189 | 🐛 21 | 🌐 Python | 📅 2026-08-24
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 467 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25
@@ -50,6 +50,7 @@
 
 ### Tutorials
 
+* writing an emulator <https://github.com/lazy-stripes/writing-an-emulator> ⚠️ Archived and <https://blog.tigris.fr/category/emulator/>
 * how to build gb <http://emudev.de/gameboy-emulator/overview/>
 * gb emulator in js <http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU>
 * audio <https://nightshade256.github.io/2021/03/27/gb-sound-emulation.html>
@@ -61,7 +62,6 @@
 * building gb emu <https://brianbove.com/blog/2017/05/29/building-a-gameboy-clone-from-scratch-part-1-emulation/>
 * building cinoop <https://cturt.github.io/cinoop.html>
 * booting gb with custom logo <https://dhole.github.io/post/gameboy_custom_logo/>
-* writing an emulator <https://github.com/lazy-stripes/writing-an-emulator> ⚠️ Archived and <https://blog.tigris.fr/category/emulator/>
 * building realboy <https://realboyemulator.wordpress.com/posts/>
 * learning gb <https://www.retroreversing.com/gameboy/>
 * <https://hacktix.github.io/GBEDG/>
@@ -129,7 +129,7 @@
 
 ### Others
 
-* <https://github.com/gbdev/awesome-gbadev> ⭐ 1,332 | 🐛 6 | 📅 2026-01-30
+* <https://github.com/gbdev/awesome-gbadev> ⭐ 1,334 | 🐛 6 | 📅 2026-01-30
 * <https://github.com/JimB16/GBABios/blob/master/GBABios.s> ⭐ 7 | 🐛 0 | 🌐 Assembly | 📅 2015-10-02
 * gba resources <https://en.wikibooks.org/wiki/GBA_Development/Resources>
 * blog post <https://medium.com/@michelheily/hello-gba-journey-of-making-an-emulator-part-1-8793000e8606>
@@ -178,12 +178,12 @@
 
 ### CPU
 
+* <https://github.com/davepoo/6502Emulator> ⭐ 601 | 🐛 5 | 🌐 C++ | 📅 2021-02-16
 * <http://nesdev.com/6502_cpu.txt>
 * <https://www.nesdev.com/6502.txt>
 * <http://www.slack.net/~ant/nes-emu/6502.html>
 * <http://www.obelisk.me.uk/6502/>
 * <https://www.masswerk.at/6502/6502_instruction_set.html>
-* <https://github.com/davepoo/6502Emulator> ⭐ 601 | 🐛 5 | 🌐 C++ | 📅 2021-02-16
 * <http://www.6502.org/tutorials/6502opcodes.html>
 * <https://codegolf.stackexchange.com/questions/12844/emulate-a-mos-6502-cpu> (have tests inside)
 * <http://6502asm.com/> (interesting programs inside)
@@ -208,7 +208,7 @@
 
 * <https://github.com/koute/pinky/tree/master/mos6502/roms> ⭐ 810 | 🐛 11 | 🌐 Rust | 📅 2023-11-27
 * <https://github.com/christopherpow/nes-test-roms> ⭐ 613 | 🐛 1 | 🌐 Assembly | 📅 2022-03-02
-* <https://github.com/Klaus2m5/6502_65C02_functional_tests> ⭐ 519 | 🐛 5 | 📅 2023-03-07
+* <https://github.com/Klaus2m5/6502_65C02_functional_tests> ⭐ 520 | 🐛 5 | 📅 2023-03-07
 * <http://wiki.nesdev.com/w/index.php/Emulator_tests>
 * <http://www.qmtpro.com/~nes/misc/> (nestest inside)
 * <http://tasvideos.org/EmulatorResources/NESAccuracyTests.html>
@@ -228,7 +228,7 @@
 
 ### Implementation
 
-* <https://github.com/amhndu/SimpleNES> ⭐ 5,107 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
+* <https://github.com/amhndu/SimpleNES> ⭐ 5,106 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
 * <https://github.com/OneLoneCoder/olcNES> ⭐ 1,539 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
 * <https://github.com/AndreaOrru/LaiNES> ⭐ 1,518 | 🐛 10 | 🌐 C++ | 📅 2025-11-06
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2022-07-18
@@ -257,12 +257,12 @@
 
 #### Building NES games
 
+* <https://github.com/jmk/cc65-nes-examples> ⭐ 85 | 🐛 0 | 🌐 Assembly | 📅 2022-10-14
 * <https://famicom.party/book/>
 * <http://skilldrick.github.io/easy6502/> (also cpu tutorial)
 * <https://en.wikibooks.org/wiki/Category:Book:NES_Programming>
 * <https://nesdoug.com/>
 * <https://shiru.untergrund.net/articles/programming_nes_games_in_c.htm>
-* <https://github.com/jmk/cc65-nes-examples> ⭐ 85 | 🐛 0 | 🌐 Assembly | 📅 2022-10-14
 * <https://cc65.github.io/doc/nes.html>
 * <https://nerdy-nights.nes.science/>
 * <https://taywee.github.io/NerdyNights/nerdynights.html>
@@ -309,10 +309,10 @@
 
 ### Others
 
+* <https://github.com/m35/jpsxdec/blob/readme/jpsxdec/PlayStation1_STR_format.txt> ⭐ 596 | 🐛 47 | 🌐 Java | 📅 2026-05-17
 * <https://emudev.org/2020/03/27/PSX_BIOS.html>
 * psx section in <https://emudev.org/system_resources>
 * <http://lameguy64.net/tutorials/pstutorials/index.html> (has some good explanations on various stuff)
-* <https://github.com/m35/jpsxdec/blob/readme/jpsxdec/PlayStation1_STR_format.txt> ⭐ 596 | 🐛 47 | 🌐 Java | 📅 2026-05-17
 
 ## JIT
 
@@ -326,7 +326,7 @@
 * emu docs <https://github.com/shonumi/Emu-Docs> ⭐ 95 | 🐛 0 | 🌐 HTML | 📅 2015-10-29
 * japanese docs <https://github.com/pokemium/emu-docs-ja> ⭐ 27 | 🐛 0 | 📅 2025-08-15
 * Common bugs <https://github.com/mattrberry/common-emudev-bugs> ⭐ 18 | 🐛 1 | 📅 2025-06-28
-* collection of 8 bit processor emulators <https://github.com/MoleskiCoder/EightBit> ⭐ 15 | 🐛 0 | 🌐 C++ | 📅 2026-08-21
+* collection of 8 bit processor emulators <https://github.com/MoleskiCoder/EightBit> ⭐ 15 | 🐛 0 | 🌐 C++ | 📅 2026-08-24
 * emudev <http://emudev.de/>
 * Guide to writing emulators <http://emulator101.com/>
 * How emulators work <http://imrannazar.com/How-Emulators-Work%3A-a-presentation>

@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 36501634,
                 "language": "Python",
-                "last_commit": "2026-08-23T17:29:21Z",
+                "last_commit": "2026-08-24T07:49:22Z",
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
                 "stars": 5189
@@ -151,6 +151,28 @@
           "description": null,
           "node_type": "group",
           "title": "Tests"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "writing an emulator https://github.com/lazy-stripes/writing-an-emulator",
+              "description": "and https://blog.tigris.fr/category/emulator/",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 218767916,
+                "language": "Go",
+                "last_commit": "2025-10-17T10:53:55Z",
+                "owner": "lazy-stripes",
+                "repo": "writing-an-emulator",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
         },
         {
           "children": [
@@ -358,7 +380,7 @@
                 "last_commit": "2026-01-30T13:27:32Z",
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1332
+                "stars": 1334
               }
             },
             {
@@ -614,6 +636,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "https://github.com/davepoo/6502Emulator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289770495,
+                "language": "C++",
+                "last_commit": "2021-02-16T09:39:20Z",
+                "owner": "davepoo",
+                "repo": "6502Emulator",
+                "stars": 601
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CPU"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "https://github.com/koute/pinky/tree/master/mos6502/roms",
               "description": null,
               "children": [],
@@ -654,7 +698,7 @@
                 "last_commit": "2023-03-07T15:32:25Z",
                 "owner": "Klaus2m5",
                 "repo": "6502_65C02_functional_tests",
-                "stars": 519
+                "stars": 520
               }
             }
           ],
@@ -676,7 +720,7 @@
                 "last_commit": "2025-10-05T11:37:38Z",
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5107
+                "stars": 5106
               }
             },
             {
@@ -820,6 +864,28 @@
                 "repo": "tolarian-academy",
                 "stars": 11
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/jmk/cc65-nes-examples",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11916081,
+                    "language": "Assembly",
+                    "last_commit": "2022-10-14T07:07:48Z",
+                    "owner": "jmk",
+                    "repo": "cc65-nes-examples",
+                    "stars": 85
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Building NES games"
             }
           ],
           "description": null,
@@ -832,6 +898,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/simias/psx-guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36531149,
+                "language": "TeX",
+                "last_commit": "2023-03-21T00:01:53Z",
+                "owner": "simias",
+                "repo": "psx-guide",
+                "stars": 319
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Guides"
+        },
         {
           "children": [
             {
@@ -935,6 +1023,28 @@
           "description": null,
           "node_type": "group",
           "title": "tests"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/m35/jpsxdec/blob/readme/jpsxdec/PlayStation1_STR_format.txt",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68209550,
+                "language": "Java",
+                "last_commit": "2026-05-17T16:42:06Z",
+                "owner": "m35",
+                "repo": "jpsxdec",
+                "stars": 596
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
         }
       ],
       "title": "PS1"
@@ -1047,7 +1157,7 @@
             "archived": false,
             "id": 93339862,
             "language": "C++",
-            "last_commit": "2026-08-21T22:09:53Z",
+            "last_commit": "2026-08-24T06:52:13Z",
             "owner": "MoleskiCoder",
             "repo": "EightBit",
             "stars": 15
@@ -1058,7 +1168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:40:15.057Z",
+    "last_updated": "2026-08-24T14:36:07.733Z",
     "original_repository": "marethyu/awesome-emu-resources",
     "original_repository_id": 293648117,
     "original_repository_sha": "10c218f08bb4db92c1665ca08641d11365d8a5cd",
