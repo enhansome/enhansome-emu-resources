@@ -188,7 +188,7 @@
                 "last_commit": "2026-07-22T19:03:27Z",
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4491
+                "stars": 4492
               }
             },
             {
@@ -934,7 +934,7 @@
                 "last_commit": "2026-08-21T03:41:13Z",
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 983
+                "stars": 984
               }
             },
             {
@@ -1168,7 +1168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:36:07.733Z",
+    "last_updated": "2026-08-25T03:35:15.810Z",
     "original_repository": "marethyu/awesome-emu-resources",
     "original_repository_id": 293648117,
     "original_repository_sha": "10c218f08bb4db92c1665ca08641d11365d8a5cd",
