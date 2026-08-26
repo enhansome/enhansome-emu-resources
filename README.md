@@ -9,7 +9,7 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,190 | 🐛 21 | 🌐 Python | 📅 2026-08-24
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,193 | 🐛 21 | 🌐 Python | 📅 2026-08-25
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 467 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,492 | 🐛 21 | 📅 2026-07-22
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,491 | 🐛 21 | 📅 2026-07-22
 * custom Boot ROM <https://github.com/Hacktix/Bootix> ⭐ 83 | 🐛 1 | 🌐 Assembly | 📅 2021-03-12
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
@@ -229,7 +229,7 @@
 ### Implementation
 
 * <https://github.com/amhndu/SimpleNES> ⭐ 5,107 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
-* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,539 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
+* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,538 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
 * <https://github.com/AndreaOrru/LaiNES> ⭐ 1,518 | 🐛 10 | 🌐 C++ | 📅 2025-11-06
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2022-07-18
 * <https://github.com/Xyene/Emulator.NES> ⭐ 186 | 🐛 0 | 🌐 C# | 📅 2018-10-14
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 984 | 🐛 154 | 🌐 C++ | 📅 2026-08-21 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 985 | 🐛 154 | 🌐 C++ | 📅 2026-08-21 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -316,7 +316,7 @@
 
 ## JIT
 
-* <https://github.com/spencertipping/jit-tutorial> ⭐ 1,936 | 🐛 0 | 🌐 C | 📅 2021-05-03
+* <https://github.com/spencertipping/jit-tutorial> ⭐ 1,935 | 🐛 0 | 🌐 C | 📅 2021-05-03
 * <https://github.com/tekknolagi/ghuloum> ⭐ 72 | 🐛 3 | 🌐 C | 📅 2025-11-15
 * <https://github.com/antocuni/jit30min> ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2019-07-11
 * <https://csl.name/post/python-jit/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
