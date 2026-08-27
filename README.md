@@ -9,7 +9,7 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,193 | 🐛 21 | 🌐 Python | 📅 2026-08-25
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,193 | 🐛 21 | 🌐 Python | 📅 2026-08-27
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 467 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25
@@ -326,7 +326,7 @@
 * emu docs <https://github.com/shonumi/Emu-Docs> ⭐ 95 | 🐛 0 | 🌐 HTML | 📅 2015-10-29
 * japanese docs <https://github.com/pokemium/emu-docs-ja> ⭐ 27 | 🐛 0 | 📅 2025-08-15
 * Common bugs <https://github.com/mattrberry/common-emudev-bugs> ⭐ 18 | 🐛 1 | 📅 2025-06-28
-* collection of 8 bit processor emulators <https://github.com/MoleskiCoder/EightBit> ⭐ 15 | 🐛 0 | 🌐 C++ | 📅 2026-08-24
+* collection of 8 bit processor emulators <https://github.com/MoleskiCoder/EightBit> ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2026-08-26
 * emudev <http://emudev.de/>
 * Guide to writing emulators <http://emulator101.com/>
 * How emulators work <http://imrannazar.com/How-Emulators-Work%3A-a-presentation>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

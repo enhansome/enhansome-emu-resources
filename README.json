@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 36501634,
                 "language": "Python",
-                "last_commit": "2026-08-25T15:13:26Z",
+                "last_commit": "2026-08-27T09:24:27Z",
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
                 "stars": 5193
@@ -1157,10 +1157,10 @@
             "archived": false,
             "id": 93339862,
             "language": "C++",
-            "last_commit": "2026-08-24T06:52:13Z",
+            "last_commit": "2026-08-26T12:50:50Z",
             "owner": "MoleskiCoder",
             "repo": "EightBit",
-            "stars": 15
+            "stars": 16
           }
         }
       ],
@@ -1168,9 +1168,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:41:04.702Z",
-    "original_repository": "marethyu/awesome-emu-resources",
-    "original_repository_id": 293648117,
+    "last_updated": "2026-08-27T11:38:28.581Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 293648117,
+      "language": null,
+      "last_commit": "2024-09-03T05:07:00Z",
+      "owner": "marethyu",
+      "repo": "awesome-emu-resources",
+      "stars": 158
+    },
     "original_repository_sha": "10c218f08bb4db92c1665ca08641d11365d8a5cd",
     "enhanced_repository": "enhansome/enhansome-emu-resources",
     "enhanced_repository_description": null,
