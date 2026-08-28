@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 36501634,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:24:27Z",
+                "last_commit": "2026-08-27T20:39:17Z",
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5193
-              }
+                "stars": 5192
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "Dooskington",
                 "repo": "GameLad",
                 "stars": 467
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "mattcurrie",
                 "repo": "mealybug-tearoom-tests",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -100,7 +105,8 @@
                 "owner": "Gekkio",
                 "repo": "mooneye-gb",
                 "stars": 970
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -114,8 +120,9 @@
                 "last_commit": "2015-06-25T04:18:37Z",
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 640
-              }
+                "stars": 639
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "c-sp",
                 "repo": "game-boy-test-roms",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "mattcurrie",
                 "repo": "mealybug-tearoom-tests",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -167,7 +176,8 @@
                 "owner": "lazy-stripes",
                 "repo": "writing-an-emulator",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -188,8 +198,9 @@
                 "last_commit": "2026-07-22T19:03:27Z",
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4491
-              }
+                "stars": 4492
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "Ashiepaws",
                 "repo": "Bootix",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "fwsGonzo",
                 "repo": "gamebro",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "mattbruv",
                 "repo": "Gameboy-Crust",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "cslarsen",
                 "repo": "gameboy",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -277,7 +292,8 @@
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
                 "stars": 1309
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -292,7 +308,8 @@
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -307,7 +324,8 @@
                 "owner": "DenSinH",
                 "repo": "DSHBA",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -329,7 +347,8 @@
                 "owner": "nba-emu",
                 "repo": "hw-docs",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -344,7 +363,8 @@
                 "owner": "mara-kr",
                 "repo": "GBA",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -359,7 +379,8 @@
                 "owner": "falvarez",
                 "repo": "gba-doc",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -381,7 +402,8 @@
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
                 "stars": 1334
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -396,7 +418,8 @@
                 "owner": "JimB16",
                 "repo": "GBABios",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -417,8 +440,9 @@
                 "last_commit": "2021-05-27T01:15:08Z",
                 "owner": "PeterLemon",
                 "repo": "GBA",
-                "stars": 144
-              }
+                "stars": 145
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -433,7 +457,8 @@
                 "owner": "jsmolka",
                 "repo": "gba-tests",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -448,7 +473,8 @@
                 "owner": "mgba-emu",
                 "repo": "suite",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -463,7 +489,8 @@
                 "owner": "shonumi",
                 "repo": "Emu-Docs",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -478,7 +505,8 @@
                 "owner": "DenSinH",
                 "repo": "FuzzARM",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -493,7 +521,8 @@
                 "owner": "nba-emu",
                 "repo": "hw-test",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -507,8 +536,9 @@
                 "last_commit": "2020-06-05T18:16:49Z",
                 "owner": "destoer",
                 "repo": "armwrestler-gba-fixed",
-                "stars": 28
-              }
+                "stars": 29
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -523,7 +553,8 @@
                 "owner": "destoer",
                 "repo": "gba_tests",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -538,7 +569,8 @@
                 "owner": "DenSinH",
                 "repo": "GBARoms",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -553,7 +585,8 @@
                 "owner": "ladystarbreeze",
                 "repo": "GBA-Test-Collection",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -568,7 +601,8 @@
                 "owner": "skylersaleh",
                 "repo": "GBA-Logs",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -583,7 +617,8 @@
                 "owner": "samkravitz",
                 "repo": "gba-acid",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -609,7 +644,8 @@
             "owner": "RockPolish",
             "repo": "rockwrestler",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T14:36:37.932Z"
         },
         {
           "node_type": "item",
@@ -624,7 +660,8 @@
             "owner": "Atem2069",
             "repo": "armwrestler-fixed",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T14:36:37.932Z"
         }
       ],
       "title": "NDS resources"
@@ -647,7 +684,8 @@
                 "owner": "davepoo",
                 "repo": "6502Emulator",
                 "stars": 601
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -669,7 +707,8 @@
                 "owner": "koute",
                 "repo": "pinky",
                 "stars": 810
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -684,7 +723,8 @@
                 "owner": "christopherpow",
                 "repo": "nes-test-roms",
                 "stars": 613
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -699,7 +739,8 @@
                 "owner": "Klaus2m5",
                 "repo": "6502_65C02_functional_tests",
                 "stars": 520
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -721,7 +762,8 @@
                 "owner": "amhndu",
                 "repo": "SimpleNES",
                 "stars": 5107
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -736,7 +778,8 @@
                 "owner": "OneLoneCoder",
                 "repo": "olcNES",
                 "stars": 1538
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -751,7 +794,8 @@
                 "owner": "AndreaOrru",
                 "repo": "LaiNES",
                 "stars": 1518
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -766,7 +810,8 @@
                 "owner": "wpmed92",
                 "repo": "MedNES",
                 "stars": 226
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -781,7 +826,8 @@
                 "owner": "Xyene",
                 "repo": "Emulator.NES",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -796,7 +842,8 @@
                 "owner": "yizhang82",
                 "repo": "neschan",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -811,7 +858,8 @@
                 "owner": "PeterLemon",
                 "repo": "NES",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -833,7 +881,8 @@
                 "owner": "pjhades",
                 "repo": "tolarian-academy",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -848,7 +897,8 @@
                 "owner": "pjhades",
                 "repo": "tolarian-academy",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -863,7 +913,8 @@
                 "owner": "pjhades",
                 "repo": "tolarian-academy",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "children": [
@@ -880,7 +931,8 @@
                     "owner": "jmk",
                     "repo": "cc65-nes-examples",
                     "stars": 85
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:37.932Z"
                 }
               ],
               "description": null,
@@ -913,7 +965,8 @@
                 "owner": "simias",
                 "repo": "psx-guide",
                 "stars": 319
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -931,11 +984,12 @@
                 "archived": false,
                 "id": 161444705,
                 "language": "C++",
-                "last_commit": "2026-08-21T03:41:13Z",
+                "last_commit": "2026-08-27T21:21:46Z",
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
                 "stars": 985
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -950,7 +1004,8 @@
                 "owner": "UnsafePointer",
                 "repo": "ruby",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -971,8 +1026,9 @@
                 "last_commit": "2026-01-20T20:09:44Z",
                 "owner": "PeterLemon",
                 "repo": "PSX",
-                "stars": 142
-              }
+                "stars": 143
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -987,7 +1043,8 @@
                 "owner": "JaCzekanski",
                 "repo": "ps1-tests",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -1002,7 +1059,8 @@
                 "owner": "simias",
                 "repo": "psx-hardware-tests",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             },
             {
               "node_type": "item",
@@ -1013,11 +1071,12 @@
                 "archived": false,
                 "id": 161513926,
                 "language": "C++",
-                "last_commit": "2026-08-23T21:02:28Z",
+                "last_commit": "2026-08-28T03:56:29Z",
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -1039,7 +1098,8 @@
                 "owner": "m35",
                 "repo": "jpsxdec",
                 "stars": 596
-              }
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
             }
           ],
           "description": null,
@@ -1064,8 +1124,9 @@
             "last_commit": "2021-05-03T20:33:50Z",
             "owner": "spencertipping",
             "repo": "jit-tutorial",
-            "stars": 1935
-          }
+            "stars": 1933
+          },
+          "first_seen": "2026-08-28T14:36:37.932Z"
         },
         {
           "node_type": "item",
@@ -1080,7 +1141,8 @@
             "owner": "tekknolagi",
             "repo": "ghuloum",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T14:36:37.932Z"
         },
         {
           "node_type": "item",
@@ -1095,7 +1157,8 @@
             "owner": "antocuni",
             "repo": "jit30min",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T14:36:37.932Z"
         }
       ],
       "title": "JIT"
@@ -1116,7 +1179,8 @@
             "owner": "shonumi",
             "repo": "Emu-Docs",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T14:36:37.932Z"
         },
         {
           "node_type": "item",
@@ -1131,7 +1195,8 @@
             "owner": "akatsuki105",
             "repo": "emu-docs-ja",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T14:36:37.932Z"
         },
         {
           "node_type": "item",
@@ -1146,7 +1211,8 @@
             "owner": "mattrbeck",
             "repo": "common-emudev-bugs",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T14:36:37.932Z"
         },
         {
           "node_type": "item",
@@ -1161,14 +1227,15 @@
             "owner": "MoleskiCoder",
             "repo": "EightBit",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T14:36:37.932Z"
         }
       ],
       "title": "Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:07:38.419Z",
+    "last_updated": "2026-08-28T14:36:37.932Z",
     "original_repository_info": {
       "archived": false,
       "id": 293648117,

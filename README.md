@@ -9,7 +9,7 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,193 | 🐛 21 | 🌐 Python | 📅 2026-08-27
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,192 | 🐛 21 | 🌐 Python | 📅 2026-08-27
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 467 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25
@@ -41,7 +41,7 @@
 ### Tests
 
 * mooneye gb test roms <https://github.com/Gekkio/mooneye-gb/tree/master/tests> ⭐ 970 | 🐛 43 | 🌐 Rust | 📅 2023-03-16
-* test roms <https://github.com/retrio/gb-test-roms> ⭐ 640 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
+* test roms <https://github.com/retrio/gb-test-roms> ⭐ 639 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
 * collection of test roms <https://github.com/c-sp/gameboy-test-roms> ⭐ 257 | 🐛 0 | 🌐 Shell | 📅 2025-04-27
 * yet another test roms <https://github.com/mattcurrie/mealybug-tearoom-tests> ⭐ 70 | 🐛 0 | 🌐 Assembly | 📅 2020-12-19
 * blargg tests <https://gbdev.gg8.se/files/roms/blargg-gb-tests/>
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,491 | 🐛 21 | 📅 2026-07-22
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,492 | 🐛 21 | 📅 2026-07-22
 * custom Boot ROM <https://github.com/Hacktix/Bootix> ⭐ 83 | 🐛 1 | 🌐 Assembly | 📅 2021-03-12
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
@@ -143,13 +143,13 @@
 
 ### Tests
 
-* <https://github.com/PeterLemon/GBA> ⭐ 144 | 🐛 1 | 🌐 Assembly | 📅 2021-05-27
+* <https://github.com/PeterLemon/GBA> ⭐ 145 | 🐛 1 | 🌐 Assembly | 📅 2021-05-27
 * <https://github.com/jsmolka/gba-suite> ⭐ 135 | 🐛 0 | 🌐 Assembly | 📅 2025-04-19
 * <https://github.com/mgba-emu/suite> ⭐ 102 | 🐛 9 | 🌐 C | 📅 2026-07-09
 * <https://github.com/shonumi/Emu-Docs/tree/master/GameBoy%20Advance/test_roms> ⭐ 95 | 🐛 0 | 🌐 HTML | 📅 2015-10-29
 * <https://github.com/DenSinH/FuzzARM> ⭐ 51 | 🐛 0 | 🌐 Assembly | 📅 2022-06-14
 * <https://github.com/nba-emu/hw-test> ⚠️ Archived
-* <https://github.com/destoer/armwrestler-gba-fixed> ⭐ 28 | 🐛 0 | 🌐 Assembly | 📅 2020-06-05
+* <https://github.com/destoer/armwrestler-gba-fixed> ⭐ 29 | 🐛 0 | 🌐 Assembly | 📅 2020-06-05
 * <https://github.com/destoer/gba_tests> ⭐ 15 | 🐛 0 | 🌐 Assembly | 📅 2021-10-16
 * <https://github.com/DenSinH/GBARoms> ⭐ 9 | 🐛 0 | 🌐 Assembly | 📅 2021-12-31
 * <https://github.com/ladystarbreeze/GBA-Test-Collection> ⭐ 9 | 🐛 0 | 🌐 Assembly | 📅 2021-08-05
@@ -292,17 +292,17 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 985 | 🐛 154 | 🌐 C++ | 📅 2026-08-21 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 985 | 🐛 154 | 🌐 C++ | 📅 2026-08-27 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
 
 ### tests
 
-* <https://github.com/PeterLemon/PSX> ⭐ 142 | 🐛 0 | 🌐 Assembly | 📅 2026-01-20 (fork: <https://github.com/RobertPeip/PSX> ⭐ 5 | 🐛 0 | 🌐 Assembly | 📅 2022-11-24)
+* <https://github.com/PeterLemon/PSX> ⭐ 143 | 🐛 0 | 🌐 Assembly | 📅 2026-01-20 (fork: <https://github.com/RobertPeip/PSX> ⭐ 5 | 🐛 0 | 🌐 Assembly | 📅 2022-11-24)
 * <https://github.com/JaCzekanski/ps1-tests> ⭐ 91 | 🐛 1 | 🌐 C++ | 📅 2023-03-05
 * <https://github.com/simias/psx-hardware-tests/tree/master/tests> ⭐ 18 | 🐛 1 | 🌐 Assembly | 📅 2020-02-09
-* <https://github.com/nicolasnoble/pcsx-redux/tree/2f882a4d0bc8a83f13077f24538db6ab05c8247e/src/mips/tests/cdrom> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2026-08-23
+* <https://github.com/nicolasnoble/pcsx-redux/tree/2f882a4d0bc8a83f13077f24538db6ab05c8247e/src/mips/tests/cdrom> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2026-08-28
 * <https://emulation.gametechwiki.com/index.php/PS1_Tests>
 * <https://gitlab.com/psx-emu-dev/psx-hardware-tests/-/tree/master/src>
 * <https://www.pouet.net/prodlist.php?order=thumbup&platform%5B0%5D=Playstation&page=1>
@@ -316,7 +316,7 @@
 
 ## JIT
 
-* <https://github.com/spencertipping/jit-tutorial> ⭐ 1,935 | 🐛 0 | 🌐 C | 📅 2021-05-03
+* <https://github.com/spencertipping/jit-tutorial> ⭐ 1,933 | 🐛 0 | 🌐 C | 📅 2021-05-03
 * <https://github.com/tekknolagi/ghuloum> ⭐ 72 | 🐛 3 | 🌐 C | 📅 2025-11-15
 * <https://github.com/antocuni/jit30min> ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2019-07-11
 * <https://csl.name/post/python-jit/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
