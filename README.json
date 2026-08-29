@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Game Boy emulator written in Python",
+                "homepage": null,
                 "id": 36501634,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:39:17Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T20:00:55Z",
+                "open_issues": 21,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5192
+                "stars": 5192,
+                "topics": [
+                  "cython",
+                  "emulator",
+                  "gameboy",
+                  "gameboy-emulator",
+                  "gameboy-emulator-library",
+                  "pypy",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -28,12 +41,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":tv: An (almost) fully featured Game Boy emulator.",
+                "homepage": null,
                 "id": 44641865,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-21T20:49:35Z",
+                "open_issues": 5,
                 "owner": "Dooskington",
                 "repo": "GameLad",
-                "stars": 467
+                "stars": 467,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -44,12 +62,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GB, GBC and GBA emulator with GB Camera support.",
+                "homepage": "https://codeberg.org/SkyLyrac/giibiiadvance",
                 "id": 17496285,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-01-25T02:02:07Z",
+                "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
-                "stars": 214
+                "stars": 214,
+                "topics": [
+                  "c",
+                  "gameboy",
+                  "gameboy-advance",
+                  "gameboy-advance-emulator",
+                  "gameboy-color",
+                  "gameboy-color-emulator",
+                  "gameboy-emulator",
+                  "linux",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -60,12 +93,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GB, GBC and GBA emulator with GB Camera support.",
+                "homepage": "https://codeberg.org/SkyLyrac/giibiiadvance",
                 "id": 17496285,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-01-25T02:02:07Z",
+                "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
-                "stars": 214
+                "stars": 214,
+                "topics": [
+                  "c",
+                  "gameboy",
+                  "gameboy-advance",
+                  "gameboy-advance-emulator",
+                  "gameboy-color",
+                  "gameboy-color-emulator",
+                  "gameboy-emulator",
+                  "linux",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -76,12 +124,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🪲☕️ Game Boy emulator test ROMs",
+                "homepage": null,
                 "id": 131109826,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2020-12-19T22:12:48Z",
+                "open_issues": 0,
                 "owner": "mattcurrie",
                 "repo": "mealybug-tearoom-tests",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "game-boy",
+                  "gameboy",
+                  "gameboy-emulator"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -99,12 +156,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Game Boy research project and emulator written in Rust",
+                "homepage": null,
                 "id": 28192577,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-16T03:58:55Z",
+                "open_issues": 43,
                 "owner": "Gekkio",
                 "repo": "mooneye-gb",
-                "stars": 970
+                "stars": 970,
+                "topics": [
+                  "emulator",
+                  "game-boy",
+                  "gameboy",
+                  "gameboy-emulator",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -115,12 +183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of Game Boy test roms.",
+                "homepage": null,
                 "id": 38027470,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2015-06-25T04:18:37Z",
+                "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 639
+                "stars": 639,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -131,12 +204,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of different test suites for your Game Boy emulator",
+                "homepage": null,
                 "id": 271074678,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-04-27T09:51:36Z",
+                "open_issues": 0,
                 "owner": "c-sp",
                 "repo": "game-boy-test-roms",
-                "stars": 257
+                "stars": 257,
+                "topics": [
+                  "blargg",
+                  "bullygb",
+                  "cgb-acid2",
+                  "dmg-acid2",
+                  "emulator",
+                  "firstwhite",
+                  "gambatte",
+                  "gameboy",
+                  "gbmicrotest",
+                  "little-things-gb",
+                  "mbc3-test",
+                  "mealybug-tearoom-tests",
+                  "mooneye-gb",
+                  "rtc3test",
+                  "samesuite",
+                  "scribbltests",
+                  "strikethrough",
+                  "tellinglys",
+                  "test-roms",
+                  "turtle-tests"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -147,12 +246,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🪲☕️ Game Boy emulator test ROMs",
+                "homepage": null,
                 "id": 131109826,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2020-12-19T22:12:48Z",
+                "open_issues": 0,
                 "owner": "mattcurrie",
                 "repo": "mealybug-tearoom-tests",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "game-boy",
+                  "gameboy",
+                  "gameboy-emulator"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -170,12 +278,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Deprecated, please see the blog-code repository.",
+                "homepage": null,
                 "id": 218767916,
                 "language": "Go",
+                "license": "CC0-1.0",
                 "last_commit": "2025-10-17T10:53:55Z",
+                "open_issues": 0,
                 "owner": "lazy-stripes",
                 "repo": "writing-an-emulator",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -193,12 +306,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
+                "homepage": "https://gbdev.io/resources",
                 "id": 52347647,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-22T19:03:27Z",
+                "open_issues": 21,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4492
+                "stars": 4492,
+                "topics": [
+                  "assembler",
+                  "awesome",
+                  "awesome-list",
+                  "cartridge",
+                  "dmg",
+                  "documentation",
+                  "game-boy-development",
+                  "game-development",
+                  "gameboy",
+                  "gameboy-color",
+                  "gameboy-color-emulator",
+                  "gameboy-emulator",
+                  "gamedev",
+                  "gbdk",
+                  "list",
+                  "nintendo",
+                  "resources",
+                  "retrogaming",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -209,12 +347,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom copyright-free Gameboy Bootroms.",
+                "homepage": null,
                 "id": 345199574,
                 "language": "Assembly",
+                "license": "CC0-1.0",
                 "last_commit": "2021-03-12T23:36:22Z",
+                "open_issues": 1,
                 "owner": "Ashiepaws",
                 "repo": "Bootix",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "bootrom",
+                  "dmg",
+                  "free-gameboy-bootroms",
+                  "gameboy"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -225,12 +373,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gameboy Color emulator library for C++17",
+                "homepage": null,
                 "id": 156282831,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-03-19T19:28:55Z",
+                "open_issues": 0,
                 "owner": "fwsGonzo",
                 "repo": "gamebro",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "cpp",
+                  "cpp17",
+                  "gameboy-emulator",
+                  "gbc",
+                  "gbc-emulator",
+                  "library"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -241,12 +401,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An experimental Game Boy Color (GBC) emulator written in Rust",
+                "homepage": null,
                 "id": 107921862,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2017-12-30T02:33:26Z",
+                "open_issues": 0,
                 "owner": "mattbruv",
                 "repo": "Gameboy-Crust",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -257,12 +422,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gameboy emulator in Python",
+                "homepage": null,
                 "id": 101328162,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-12-26T22:10:55Z",
+                "open_issues": 0,
                 "owner": "cslarsen",
                 "repo": "gameboy",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "gameboy",
+                  "nintendo",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -286,12 +460,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A cycle-accurate Nintendo Game Boy Advance emulator.",
+                "homepage": "https://nanoboyadvance.eu",
                 "id": 40276038,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-21T12:22:20Z",
+                "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1309
+                "stars": 1309,
+                "topics": [
+                  "cycle-accurate",
+                  "emulator",
+                  "emulator-development",
+                  "gameboy-advance",
+                  "gameboy-advance-emulator",
+                  "gba"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -302,12 +488,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GB, GBC and GBA emulator with GB Camera support.",
+                "homepage": "https://codeberg.org/SkyLyrac/giibiiadvance",
                 "id": 17496285,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-01-25T02:02:07Z",
+                "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
-                "stars": 214
+                "stars": 214,
+                "topics": [
+                  "c",
+                  "gameboy",
+                  "gameboy-advance",
+                  "gameboy-advance-emulator",
+                  "gameboy-color",
+                  "gameboy-color-emulator",
+                  "gameboy-emulator",
+                  "linux",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -318,12 +519,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A highly performant GBA emulator with a hardware renderer",
+                "homepage": null,
                 "id": 305795379,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2021-06-06T18:01:05Z",
+                "open_issues": 0,
                 "owner": "DenSinH",
                 "repo": "DSHBA",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "emulator",
+                  "gba"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -341,12 +550,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GBA hardware documentation.",
+                "homepage": "https://nba-emu.github.io/hw-docs",
                 "id": 557488602,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-06-21T13:34:33Z",
+                "open_issues": 0,
                 "owner": "nba-emu",
                 "repo": "hw-docs",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -357,12 +571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GameBoy Advance Zedboard Implementation",
+                "homepage": null,
                 "id": 67051553,
                 "language": "VHDL",
+                "license": null,
                 "last_commit": "2016-12-27T13:40:25Z",
+                "open_issues": 0,
                 "owner": "mara-kr",
                 "repo": "GBA",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -373,12 +592,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gameboy Advance development documentation compilation",
+                "homepage": null,
                 "id": 122388504,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-02-21T20:24:29Z",
+                "open_issues": 0,
                 "owner": "falvarez",
                 "repo": "gba-doc",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -396,12 +620,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Game Boy Advance development resources",
+                "homepage": "https://gbadev.net",
                 "id": 161929146,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-30T13:27:32Z",
+                "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1334
+                "stars": 1334,
+                "topics": [
+                  "awesome-list",
+                  "emulator-development",
+                  "game-boy-advance",
+                  "gameboy-advance",
+                  "gba",
+                  "gba-emulator",
+                  "resource-list",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -412,12 +650,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 43231385,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2015-10-02T06:04:38Z",
+                "open_issues": 0,
                 "owner": "JimB16",
                 "repo": "GBABios",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -435,12 +678,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Game Boy Advance Bare Metal Assembly Programming",
+                "homepage": null,
                 "id": 38714199,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2021-05-27T01:15:08Z",
+                "open_issues": 1,
                 "owner": "PeterLemon",
                 "repo": "GBA",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -451,12 +699,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Game Boy Advance tests.",
+                "homepage": null,
                 "id": 230740849,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2025-04-19T14:42:59Z",
+                "open_issues": 0,
                 "owner": "jsmolka",
                 "repo": "gba-tests",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "asm",
+                  "gameboy-advance",
+                  "gba",
+                  "test"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -467,12 +725,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Game Boy Advance Test Suite",
+                "homepage": null,
                 "id": 37803788,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-07-09T00:15:20Z",
+                "open_issues": 9,
                 "owner": "mgba-emu",
                 "repo": "suite",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -483,12 +746,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 45121881,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2015-10-29T05:25:46Z",
+                "open_issues": 0,
                 "owner": "shonumi",
                 "repo": "Emu-Docs",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -499,12 +767,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A random basic test ROM generator for the GBA",
+                "homepage": null,
                 "id": 278881572,
                 "language": "Assembly",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-14T17:16:14Z",
+                "open_issues": 0,
                 "owner": "DenSinH",
                 "repo": "FuzzARM",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -515,12 +788,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GBA hardware tests that are developed to further accurate emulation.",
+                "homepage": null,
                 "id": 407876362,
                 "language": "Makefile",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-21T13:33:06Z",
+                "open_issues": 1,
                 "owner": "nba-emu",
                 "repo": "hw-test",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -531,12 +809,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "armwrestler for gba with multiple load-store tests working",
+                "homepage": null,
                 "id": 221324013,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2020-06-05T18:16:49Z",
+                "open_issues": 0,
                 "owner": "destoer",
                 "repo": "armwrestler-gba-fixed",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -547,12 +830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "test roms for the gba",
+                "homepage": null,
                 "id": 268368177,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2021-10-16T12:59:05Z",
+                "open_issues": 0,
                 "owner": "destoer",
                 "repo": "gba_tests",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -563,12 +851,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One central repo for my small GBA assembly projects",
+                "homepage": null,
                 "id": 278297459,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2021-12-31T11:10:11Z",
+                "open_issues": 0,
                 "owner": "DenSinH",
                 "repo": "GBARoms",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -579,12 +872,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of GBA test ROMs. Written in assembly.",
+                "homepage": null,
                 "id": 392407258,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2021-08-05T18:00:54Z",
+                "open_issues": 0,
                 "owner": "ladystarbreeze",
                 "repo": "GBA-Test-Collection",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -595,12 +893,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GBA-Logs for various test roms",
+                "homepage": null,
                 "id": 398902713,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-10-07T01:00:00Z",
+                "open_issues": 0,
                 "owner": "skylersaleh",
                 "repo": "GBA-Logs",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -611,12 +914,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 408991396,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2021-09-23T16:58:11Z",
+                "open_issues": 0,
                 "owner": "samkravitz",
                 "repo": "gba-acid",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -638,12 +946,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WIP NDS test ROM for emulators",
+            "homepage": null,
             "id": 584837572,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-04-02T20:07:25Z",
+            "open_issues": 0,
             "owner": "RockPolish",
             "repo": "rockwrestler",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
         },
@@ -654,12 +967,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fixed version of armwrestler that works on hardware.",
+            "homepage": null,
             "id": 649117250,
             "language": "Assembly",
+            "license": null,
             "last_commit": "2024-07-28T03:30:59Z",
+            "open_issues": 0,
             "owner": "Atem2069",
             "repo": "armwrestler-fixed",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
         }
@@ -678,12 +996,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning how a CPU works by emulating one",
+                "homepage": null,
                 "id": 289770495,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-02-16T09:39:20Z",
+                "open_issues": 5,
                 "owner": "davepoo",
                 "repo": "6502Emulator",
-                "stars": 601
+                "stars": 601,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -701,12 +1024,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An NES emulator written in Rust",
+                "homepage": null,
                 "id": 71717084,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-27T14:30:36Z",
+                "open_issues": 11,
                 "owner": "koute",
                 "repo": "pinky",
-                "stars": 810
+                "stars": 810,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -717,12 +1045,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of test ROMs for testing a NES emulator.",
+                "homepage": null,
                 "id": 7883541,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2022-03-02T19:47:57Z",
+                "open_issues": 1,
                 "owner": "christopherpow",
                 "repo": "nes-test-roms",
-                "stars": 613
+                "stars": 613,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -733,12 +1066,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tests for all valid opcodes of the 6502 and 65C02 processor",
+                "homepage": null,
                 "id": 11953942,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-07T15:32:25Z",
+                "open_issues": 5,
                 "owner": "Klaus2m5",
                 "repo": "6502_65C02_functional_tests",
-                "stars": 520
+                "stars": 521,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -756,12 +1094,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An NES emulator in C++",
+                "homepage": null,
                 "id": 60143954,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-05T11:37:38Z",
+                "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5107
+                "stars": 5108,
+                "topics": [
+                  "c-plus-plus",
+                  "emulator",
+                  "nes-emulator",
+                  "sfml"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -772,12 +1120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NES Emulator, and Tutorial Video Code",
+                "homepage": null,
                 "id": 204157925,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-01-09T10:17:34Z",
+                "open_issues": 41,
                 "owner": "OneLoneCoder",
                 "repo": "olcNES",
-                "stars": 1538
+                "stars": 1538,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -788,12 +1141,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compact cycle-accurate NES emulator",
+                "homepage": null,
                 "id": 14239434,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-11-06T05:52:09Z",
+                "open_issues": 10,
                 "owner": "AndreaOrru",
                 "repo": "LaiNES",
-                "stars": 1518
+                "stars": 1518,
+                "topics": [
+                  "emulator",
+                  "emulators",
+                  "minimal",
+                  "nes",
+                  "nintendo",
+                  "nintendo-nes"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -804,12 +1169,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cycle-accurate, cross-platform NES emulator written in C++",
+                "homepage": "https://wpmed92.github.io",
                 "id": 207490927,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-07-18T08:42:33Z",
+                "open_issues": 0,
                 "owner": "wpmed92",
                 "repo": "MedNES",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "6502",
+                  "cpp",
+                  "emulator",
+                  "html5-canvas",
+                  "nes-emulator",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -820,12 +1197,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📺 Nintendo Entertainment System emulator written in C#.",
+                "homepage": null,
                 "id": 98561280,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2018-10-14T08:58:37Z",
+                "open_issues": 0,
                 "owner": "Xyene",
                 "repo": "Emulator.NES",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "csharp",
+                  "emulator",
+                  "famicom",
+                  "famicom-emulator",
+                  "nes",
+                  "nes-emulator"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -836,12 +1225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A NES emulator written in C++",
+                "homepage": null,
                 "id": 114496473,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-08-10T17:29:53Z",
+                "open_issues": 2,
                 "owner": "yizhang82",
                 "repo": "neschan",
-                "stars": 150
+                "stars": 150,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -852,12 +1246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NES Assembly Programming",
+                "homepage": null,
                 "id": 45891958,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2016-08-16T20:46:17Z",
+                "open_issues": 0,
                 "owner": "PeterLemon",
                 "repo": "NES",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -875,12 +1274,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notes",
+                "homepage": null,
                 "id": 87748423,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2024-02-21T19:13:23Z",
+                "open_issues": 1,
                 "owner": "pjhades",
                 "repo": "tolarian-academy",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -891,12 +1295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notes",
+                "homepage": null,
                 "id": 87748423,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2024-02-21T19:13:23Z",
+                "open_issues": 1,
                 "owner": "pjhades",
                 "repo": "tolarian-academy",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -907,12 +1316,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notes",
+                "homepage": null,
                 "id": 87748423,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2024-02-21T19:13:23Z",
+                "open_issues": 1,
                 "owner": "pjhades",
                 "repo": "tolarian-academy",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -925,12 +1339,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Shiru's NES programming examples (with Makefiles for macOS)",
+                    "homepage": null,
                     "id": 11916081,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2022-10-14T07:07:48Z",
+                    "open_issues": 0,
                     "owner": "jmk",
                     "repo": "cc65-nes-examples",
-                    "stars": 85
+                    "stars": 85,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:37.932Z"
                 }
@@ -959,12 +1378,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Guide to writing a Playstation emulator",
+                "homepage": null,
                 "id": 36531149,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2023-03-21T00:01:53Z",
+                "open_issues": 8,
                 "owner": "simias",
                 "repo": "psx-guide",
-                "stars": 319
+                "stars": 319,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -982,12 +1406,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The PCSX-Redux project is a collection of tools, research, hardware design, and libraries aiming at development and reverse engineering on the PlayStation 1. The core product itself, PCSX-Redux, is yet another fork of the Playstation emulator, PCSX.",
+                "homepage": "https://pcsx-redux.consoledev.net",
                 "id": 161444705,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-27T21:21:46Z",
+                "open_issues": 154,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 985
+                "stars": 985,
+                "topics": [
+                  "playstation-emulator"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -998,12 +1429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PlayStation emulator written in C++",
+                "homepage": null,
                 "id": 166881661,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-05-19T17:01:11Z",
+                "open_issues": 0,
                 "owner": "UnsafePointer",
                 "repo": "ruby",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -1021,12 +1457,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PlayStation Bare Metal Mips Assembly Programming",
+                "homepage": null,
                 "id": 82843689,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2026-01-20T20:09:44Z",
+                "open_issues": 0,
                 "owner": "PeterLemon",
                 "repo": "PSX",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -1037,12 +1478,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of PlayStation 1 tests for emulator development",
+                "homepage": null,
                 "id": 201956050,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-03-05T20:35:36Z",
+                "open_issues": 1,
                 "owner": "JaCzekanski",
                 "repo": "ps1-tests",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -1053,12 +1499,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 35974686,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2020-02-09T10:56:47Z",
+                "open_issues": 1,
                 "owner": "simias",
                 "repo": "psx-hardware-tests",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             },
@@ -1069,12 +1520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 161513926,
                 "language": "C++",
-                "last_commit": "2026-08-28T03:56:29Z",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-28T18:30:41Z",
+                "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -1092,12 +1548,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jPSXdec: cross-platform PlayStation 1 audio and video converter",
+                "homepage": "http://jpsxdec.blogspot.com/",
                 "id": 68209550,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-05-17T16:42:06Z",
+                "open_issues": 47,
                 "owner": "m35",
                 "repo": "jpsxdec",
-                "stars": 596
+                "stars": 596,
+                "topics": [
+                  "audio",
+                  "converter",
+                  "cross-platform",
+                  "decoder",
+                  "file-formats",
+                  "java",
+                  "media",
+                  "playstation",
+                  "psx",
+                  "reverse-engineering",
+                  "tim",
+                  "video",
+                  "video-converter"
+                ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
             }
@@ -1119,12 +1594,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "How to write a very simple JIT compiler",
+            "homepage": null,
             "id": 84356596,
             "language": "C",
+            "license": null,
             "last_commit": "2021-05-03T20:33:50Z",
+            "open_issues": 0,
             "owner": "spencertipping",
             "repo": "jit-tutorial",
-            "stars": 1933
+            "stars": 1933,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
         },
@@ -1135,12 +1615,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Following [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)",
+            "homepage": "https://bernsteinbear.com/blog/compiling-a-lisp-0/",
             "id": 220426208,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-11-15T18:27:55Z",
+            "open_issues": 3,
             "owner": "tekknolagi",
             "repo": "ghuloum",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "c",
+              "compiler",
+              "lisp",
+              "lisp-compiler",
+              "programming-language",
+              "x86",
+              "x86-64"
+            ]
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
         },
@@ -1151,12 +1644,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 180471446,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-07-11T10:36:06Z",
+            "open_issues": 0,
             "owner": "antocuni",
             "repo": "jit30min",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
         }
@@ -1173,12 +1671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 45121881,
             "language": "HTML",
+            "license": null,
             "last_commit": "2015-10-29T05:25:46Z",
+            "open_issues": 0,
             "owner": "shonumi",
             "repo": "Emu-Docs",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
         },
@@ -1189,12 +1692,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "エミュ開発に役立つドキュメントまとめ(+自分用メモ)",
+            "homepage": null,
             "id": 428256479,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2025-08-15T15:34:12Z",
+            "open_issues": 0,
             "owner": "akatsuki105",
             "repo": "emu-docs-ja",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "arm",
+              "cpu",
+              "document",
+              "documentation",
+              "emulation",
+              "emulator",
+              "game",
+              "gameboy",
+              "gameboy-advance",
+              "gba",
+              "japanese",
+              "japanese-language",
+              "nintendo",
+              "snes",
+              "super-famicom"
+            ]
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
         },
@@ -1205,12 +1729,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of bugs that people have encountered while developing emulators.",
+            "homepage": null,
             "id": 506929522,
             "language": null,
+            "license": null,
             "last_commit": "2025-06-28T04:53:57Z",
+            "open_issues": 1,
             "owner": "mattrbeck",
             "repo": "common-emudev-bugs",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
         },
@@ -1221,12 +1750,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of eight-bit processor emulators (for various projects)",
+            "homepage": null,
             "id": 93339862,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-26T12:50:50Z",
+            "open_issues": 0,
             "owner": "MoleskiCoder",
             "repo": "EightBit",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "2a03",
+              "6502",
+              "6809",
+              "8080",
+              "emulator",
+              "intel8080",
+              "lr35902",
+              "m6532",
+              "mc6850",
+              "mos6502",
+              "z80"
+            ]
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
         }
@@ -1235,15 +1781,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:36:37.932Z",
+    "last_updated": "2026-08-29T04:53:10.866Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of emulator development resources",
+      "homepage": null,
       "id": 293648117,
       "language": null,
+      "license": "GPL-3.0",
       "last_commit": "2024-09-03T05:07:00Z",
+      "open_issues": 0,
       "owner": "marethyu",
       "repo": "awesome-emu-resources",
-      "stars": 158
+      "stars": 158,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dmg",
+        "documentation",
+        "emulator",
+        "gameboy",
+        "gameboy-advance",
+        "gameboy-emulator",
+        "gb-emulator",
+        "gb-resources",
+        "gba",
+        "list",
+        "nes",
+        "nes-emulator",
+        "nintendo",
+        "psx",
+        "psx-emulator",
+        "resources",
+        "tools"
+      ]
     },
     "original_repository_sha": "10c218f08bb4db92c1665ca08641d11365d8a5cd",
     "enhanced_repository": "enhansome/enhansome-emu-resources",
