@@ -315,7 +315,7 @@
                 "open_issues": 21,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4492,
+                "stars": 4495,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -469,7 +469,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1309,
+                "stars": 1310,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -1075,7 +1075,7 @@
                 "open_issues": 5,
                 "owner": "Klaus2m5",
                 "repo": "6502_65C02_functional_tests",
-                "stars": 521,
+                "stars": 522,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1412,7 +1412,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-27T21:21:46Z",
-                "open_issues": 154,
+                "open_issues": 153,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
                 "stars": 985,
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:24:24.657Z",
+    "last_updated": "2026-08-30T08:33:32.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
