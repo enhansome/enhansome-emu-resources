@@ -629,7 +629,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1334,
+                "stars": 1335,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1005,7 +1005,7 @@
                 "open_issues": 5,
                 "owner": "davepoo",
                 "repo": "6502Emulator",
-                "stars": 601,
+                "stars": 602,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1129,7 +1129,7 @@
                 "open_issues": 41,
                 "owner": "OneLoneCoder",
                 "repo": "olcNES",
-                "stars": 1538,
+                "stars": 1539,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1415,7 +1415,7 @@
                 "open_issues": 153,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 985,
+                "stars": 988,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1487,7 +1487,7 @@
                 "open_issues": 1,
                 "owner": "JaCzekanski",
                 "repo": "ps1-tests",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:33:32.101Z",
+    "last_updated": "2026-08-31T08:55:34.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",

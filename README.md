@@ -129,7 +129,7 @@
 
 ### Others
 
-* <https://github.com/gbdev/awesome-gbadev> ⭐ 1,334 | 🐛 6 | 📅 2026-01-30
+* <https://github.com/gbdev/awesome-gbadev> ⭐ 1,335 | 🐛 6 | 📅 2026-01-30
 * <https://github.com/JimB16/GBABios/blob/master/GBABios.s> ⭐ 7 | 🐛 0 | 🌐 Assembly | 📅 2015-10-02
 * gba resources <https://en.wikibooks.org/wiki/GBA_Development/Resources>
 * blog post <https://medium.com/@michelheily/hello-gba-journey-of-making-an-emulator-part-1-8793000e8606>
@@ -178,7 +178,7 @@
 
 ### CPU
 
-* <https://github.com/davepoo/6502Emulator> ⭐ 601 | 🐛 5 | 🌐 C++ | 📅 2021-02-16
+* <https://github.com/davepoo/6502Emulator> ⭐ 602 | 🐛 5 | 🌐 C++ | 📅 2021-02-16
 * <http://nesdev.com/6502_cpu.txt>
 * <https://www.nesdev.com/6502.txt>
 * <http://www.slack.net/~ant/nes-emu/6502.html>
@@ -229,7 +229,7 @@
 ### Implementation
 
 * <https://github.com/amhndu/SimpleNES> ⭐ 5,108 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
-* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,538 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
+* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,539 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
 * <https://github.com/AndreaOrru/LaiNES> ⭐ 1,518 | 🐛 10 | 🌐 C++ | 📅 2025-11-06
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2022-07-18
 * <https://github.com/Xyene/Emulator.NES> ⭐ 186 | 🐛 0 | 🌐 C# | 📅 2018-10-14
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 985 | 🐛 153 | 🌐 C++ | 📅 2026-08-27 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 988 | 🐛 153 | 🌐 C++ | 📅 2026-08-27 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -300,7 +300,7 @@
 ### tests
 
 * <https://github.com/PeterLemon/PSX> ⭐ 143 | 🐛 0 | 🌐 Assembly | 📅 2026-01-20 (fork: <https://github.com/RobertPeip/PSX> ⭐ 5 | 🐛 0 | 🌐 Assembly | 📅 2022-11-24)
-* <https://github.com/JaCzekanski/ps1-tests> ⭐ 91 | 🐛 1 | 🌐 C++ | 📅 2023-03-05
+* <https://github.com/JaCzekanski/ps1-tests> ⭐ 92 | 🐛 1 | 🌐 C++ | 📅 2023-03-05
 * <https://github.com/simias/psx-hardware-tests/tree/master/tests> ⭐ 18 | 🐛 1 | 🌐 Assembly | 📅 2020-02-09
 * <https://github.com/nicolasnoble/pcsx-redux/tree/2f882a4d0bc8a83f13077f24538db6ab05c8247e/src/mips/tests/cdrom> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2026-08-28
 * <https://emulation.gametechwiki.com/index.php/PS1_Tests>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
