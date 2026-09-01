@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5192,
+                "stars": 5194,
                 "topics": [
                   "cython",
                   "emulator",
@@ -165,7 +165,7 @@
                 "open_issues": 43,
                 "owner": "Gekkio",
                 "repo": "mooneye-gb",
-                "stars": 970,
+                "stars": 971,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -1411,8 +1411,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-27T21:21:46Z",
-                "open_issues": 153,
+                "last_commit": "2026-09-01T05:53:49Z",
+                "open_issues": 152,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
                 "stars": 988,
@@ -1525,7 +1525,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-28T18:30:41Z",
+                "last_commit": "2026-09-01T05:53:30Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1557,7 +1557,7 @@
                 "open_issues": 47,
                 "owner": "m35",
                 "repo": "jpsxdec",
-                "stars": 596,
+                "stars": 598,
                 "topics": [
                   "audio",
                   "converter",
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:55:34.878Z",
+    "last_updated": "2026-09-01T07:59:40.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
