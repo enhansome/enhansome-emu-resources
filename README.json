@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 639,
+                "stars": 640,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -315,7 +315,7 @@
                 "open_issues": 21,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4495,
+                "stars": 4496,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -469,7 +469,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1310,
+                "stars": 1311,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -629,7 +629,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1335,
+                "stars": 1336,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1054,7 +1054,7 @@
                 "open_issues": 1,
                 "owner": "christopherpow",
                 "repo": "nes-test-roms",
-                "stars": 613,
+                "stars": 612,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1103,7 +1103,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5108,
+                "stars": 5109,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1411,8 +1411,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-01T05:53:49Z",
-                "open_issues": 152,
+                "last_commit": "2026-09-02T07:19:20Z",
+                "open_issues": 151,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
                 "stars": 988,
@@ -1525,7 +1525,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-01T05:53:30Z",
+                "last_commit": "2026-09-02T06:44:12Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1603,7 +1603,7 @@
             "open_issues": 0,
             "owner": "spencertipping",
             "repo": "jit-tutorial",
-            "stars": 1933,
+            "stars": 1934,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T07:59:40.287Z",
+    "last_updated": "2026-09-02T07:20:15.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
