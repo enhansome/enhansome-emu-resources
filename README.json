@@ -315,7 +315,7 @@
                 "open_issues": 21,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4496,
+                "stars": 4495,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -629,7 +629,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1336,
+                "stars": 1337,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1005,7 +1005,7 @@
                 "open_issues": 5,
                 "owner": "davepoo",
                 "repo": "6502Emulator",
-                "stars": 602,
+                "stars": 601,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1103,7 +1103,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5109,
+                "stars": 5108,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1411,11 +1411,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-02T07:19:20Z",
-                "open_issues": 151,
+                "last_commit": "2026-09-02T17:13:31Z",
+                "open_issues": 152,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 988,
+                "stars": 989,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1525,7 +1525,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-02T06:44:12Z",
+                "last_commit": "2026-09-02T17:24:24Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:20:15.236Z",
+    "last_updated": "2026-09-03T07:23:47.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
