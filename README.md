@@ -9,7 +9,7 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,194 | 🐛 21 | 🌐 Python | 📅 2026-08-28
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,195 | 🐛 21 | 🌐 Python | 📅 2026-08-28
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 467 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,495 | 🐛 21 | 📅 2026-07-22
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,496 | 🐛 21 | 📅 2026-07-22
 * custom Boot ROM <https://github.com/Hacktix/Bootix> ⭐ 83 | 🐛 1 | 🌐 Assembly | 📅 2021-03-12
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
@@ -178,7 +178,7 @@
 
 ### CPU
 
-* <https://github.com/davepoo/6502Emulator> ⭐ 601 | 🐛 5 | 🌐 C++ | 📅 2021-02-16
+* <https://github.com/davepoo/6502Emulator> ⭐ 602 | 🐛 5 | 🌐 C++ | 📅 2021-02-16
 * <http://nesdev.com/6502_cpu.txt>
 * <https://www.nesdev.com/6502.txt>
 * <http://www.slack.net/~ant/nes-emu/6502.html>
@@ -229,8 +229,8 @@
 ### Implementation
 
 * <https://github.com/amhndu/SimpleNES> ⭐ 5,108 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
-* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,539 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
-* <https://github.com/AndreaOrru/LaiNES> ⭐ 1,518 | 🐛 10 | 🌐 C++ | 📅 2025-11-06
+* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,540 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
+* <https://github.com/AndreaOrru/LaiNES> ⭐ 1,516 | 🐛 10 | 🌐 C++ | 📅 2025-11-06
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2022-07-18
 * <https://github.com/Xyene/Emulator.NES> ⭐ 186 | 🐛 0 | 🌐 C# | 📅 2018-10-14
 * <https://github.com/yizhang82/neschan> ⭐ 150 | 🐛 2 | 🌐 C++ | 📅 2025-08-10
@@ -286,13 +286,13 @@
 
 ### Guides
 
-* <https://github.com/simias/psx-guide> ⭐ 319 | 🐛 8 | 🌐 TeX | 📅 2023-03-21
+* <https://github.com/simias/psx-guide> ⭐ 320 | 🐛 8 | 🌐 TeX | 📅 2023-03-21
 * <https://www.reddit.com/r/EmuDev/comments/fmhtcn>
 * <https://www.reddit.com/r/emulation/comments/8017j9/how_does_playstations_texture_cache_work/> (also see the same question posted earlier)
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 989 | 🐛 152 | 🌐 C++ | 📅 2026-09-02 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 991 | 🐛 153 | 🌐 C++ | 📅 2026-09-04 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -302,14 +302,14 @@
 * <https://github.com/PeterLemon/PSX> ⭐ 143 | 🐛 0 | 🌐 Assembly | 📅 2026-01-20 (fork: <https://github.com/RobertPeip/PSX> ⭐ 5 | 🐛 0 | 🌐 Assembly | 📅 2022-11-24)
 * <https://github.com/JaCzekanski/ps1-tests> ⭐ 92 | 🐛 1 | 🌐 C++ | 📅 2023-03-05
 * <https://github.com/simias/psx-hardware-tests/tree/master/tests> ⭐ 18 | 🐛 1 | 🌐 Assembly | 📅 2020-02-09
-* <https://github.com/nicolasnoble/pcsx-redux/tree/2f882a4d0bc8a83f13077f24538db6ab05c8247e/src/mips/tests/cdrom> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2026-09-02
+* <https://github.com/nicolasnoble/pcsx-redux/tree/2f882a4d0bc8a83f13077f24538db6ab05c8247e/src/mips/tests/cdrom> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2026-09-04
 * <https://emulation.gametechwiki.com/index.php/PS1_Tests>
 * <https://gitlab.com/psx-emu-dev/psx-hardware-tests/-/tree/master/src>
 * <https://www.pouet.net/prodlist.php?order=thumbup&platform%5B0%5D=Playstation&page=1>
 
 ### Others
 
-* <https://github.com/m35/jpsxdec/blob/readme/jpsxdec/PlayStation1_STR_format.txt> ⭐ 598 | 🐛 47 | 🌐 Java | 📅 2026-05-17
+* <https://github.com/m35/jpsxdec/blob/readme/jpsxdec/PlayStation1_STR_format.txt> ⭐ 599 | 🐛 47 | 🌐 Java | 📅 2026-05-17
 * <https://emudev.org/2020/03/27/PSX_BIOS.html>
 * psx section in <https://emudev.org/system_resources>
 * <http://lameguy64.net/tutorials/pstutorials/index.html> (has some good explanations on various stuff)
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
