@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5195,
+                "stars": 5194,
                 "topics": [
                   "cython",
                   "emulator",
@@ -315,7 +315,7 @@
                 "open_issues": 21,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4496,
+                "stars": 4497,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -1075,7 +1075,7 @@
                 "open_issues": 5,
                 "owner": "Klaus2m5",
                 "repo": "6502_65C02_functional_tests",
-                "stars": 523,
+                "stars": 524,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1412,10 +1412,10 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-04T03:48:35Z",
-                "open_issues": 153,
+                "open_issues": 155,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 991,
+                "stars": 992,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1525,7 +1525,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-05T05:32:09Z",
+                "last_commit": "2026-09-06T02:08:55Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:07:26.416Z",
+    "last_updated": "2026-09-06T07:19:20.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
