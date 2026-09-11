@@ -21,7 +21,7 @@
                 "open_issues": 22,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5195,
+                "stars": 5197,
                 "topics": [
                   "cython",
                   "emulator",
@@ -315,7 +315,7 @@
                 "open_issues": 22,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4499,
+                "stars": 4501,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -629,7 +629,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1340,
+                "stars": 1341,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1005,7 +1005,7 @@
                 "open_issues": 5,
                 "owner": "davepoo",
                 "repo": "6502Emulator",
-                "stars": 603,
+                "stars": 602,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1103,7 +1103,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5108,
+                "stars": 5107,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1129,7 +1129,7 @@
                 "open_issues": 41,
                 "owner": "OneLoneCoder",
                 "repo": "olcNES",
-                "stars": 1540,
+                "stars": 1541,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1150,7 +1150,7 @@
                 "open_issues": 10,
                 "owner": "AndreaOrru",
                 "repo": "LaiNES",
-                "stars": 1515,
+                "stars": 1516,
                 "topics": [
                   "emulator",
                   "emulators",
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:31:29.815Z",
+    "last_updated": "2026-09-11T07:29:59.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
