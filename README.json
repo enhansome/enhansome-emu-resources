@@ -17,7 +17,7 @@
                 "id": 36501634,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T15:46:10Z",
+                "last_commit": "2026-09-11T19:54:06Z",
                 "open_issues": 22,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
@@ -315,7 +315,7 @@
                 "open_issues": 22,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4501,
+                "stars": 4502,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -1411,7 +1411,7 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-10T04:38:26Z",
+                "last_commit": "2026-09-12T02:54:13Z",
                 "open_issues": 155,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
@@ -1525,7 +1525,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-10T04:15:12Z",
+                "last_commit": "2026-09-11T22:56:37Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1557,7 +1557,7 @@
                 "open_issues": 47,
                 "owner": "m35",
                 "repo": "jpsxdec",
-                "stars": 600,
+                "stars": 601,
                 "topics": [
                   "audio",
                   "converter",
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:29:59.883Z",
+    "last_updated": "2026-09-12T07:21:42.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
