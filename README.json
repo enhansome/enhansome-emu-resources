@@ -1412,10 +1412,10 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-13T06:16:36Z",
-                "open_issues": 155,
+                "open_issues": 156,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 993,
+                "stars": 994,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1603,7 +1603,7 @@
             "open_issues": 0,
             "owner": "spencertipping",
             "repo": "jit-tutorial",
-            "stars": 1935,
+            "stars": 1934,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:40:14.350Z",
+    "last_updated": "2026-09-14T08:07:36.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
