@@ -17,8 +17,8 @@
                 "id": 36501634,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T23:08:25Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-14T20:15:30Z",
+                "open_issues": 22,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
                 "stars": 5197,
@@ -315,7 +315,7 @@
                 "open_issues": 22,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4502,
+                "stars": 4505,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -1005,7 +1005,7 @@
                 "open_issues": 5,
                 "owner": "davepoo",
                 "repo": "6502Emulator",
-                "stars": 602,
+                "stars": 603,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1129,7 +1129,7 @@
                 "open_issues": 41,
                 "owner": "OneLoneCoder",
                 "repo": "olcNES",
-                "stars": 1541,
+                "stars": 1543,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1150,7 +1150,7 @@
                 "open_issues": 10,
                 "owner": "AndreaOrru",
                 "repo": "LaiNES",
-                "stars": 1516,
+                "stars": 1517,
                 "topics": [
                   "emulator",
                   "emulators",
@@ -1412,7 +1412,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-13T06:16:36Z",
-                "open_issues": 156,
+                "open_issues": 157,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
                 "stars": 994,
@@ -1525,7 +1525,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-13T06:11:17Z",
+                "last_commit": "2026-09-15T04:56:07Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T08:07:36.874Z",
+    "last_updated": "2026-09-15T08:02:39.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
