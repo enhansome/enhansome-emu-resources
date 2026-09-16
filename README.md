@@ -41,7 +41,7 @@
 ### Tests
 
 * mooneye gb test roms <https://github.com/Gekkio/mooneye-gb/tree/master/tests> ⭐ 970 | 🐛 43 | 🌐 Rust | 📅 2023-03-16
-* test roms <https://github.com/retrio/gb-test-roms> ⭐ 642 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
+* test roms <https://github.com/retrio/gb-test-roms> ⭐ 643 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
 * collection of test roms <https://github.com/c-sp/gameboy-test-roms> ⭐ 257 | 🐛 0 | 🌐 Shell | 📅 2025-04-27
 * yet another test roms <https://github.com/mattcurrie/mealybug-tearoom-tests> ⭐ 70 | 🐛 0 | 🌐 Assembly | 📅 2020-12-19
 * blargg tests <https://gbdev.gg8.se/files/roms/blargg-gb-tests/>
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,505 | 🐛 22 | 📅 2026-07-22
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,507 | 🐛 22 | 📅 2026-07-22
 * custom Boot ROM <https://github.com/Hacktix/Bootix> ⭐ 84 | 🐛 1 | 🌐 Assembly | 📅 2021-03-12
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
@@ -146,7 +146,7 @@
 * <https://github.com/PeterLemon/GBA> ⭐ 144 | 🐛 1 | 🌐 Assembly | 📅 2021-05-27
 * <https://github.com/jsmolka/gba-suite> ⭐ 135 | 🐛 0 | 🌐 Assembly | 📅 2025-04-19
 * <https://github.com/mgba-emu/suite> ⭐ 102 | 🐛 9 | 🌐 C | 📅 2026-07-09
-* <https://github.com/shonumi/Emu-Docs/tree/master/GameBoy%20Advance/test_roms> ⭐ 95 | 🐛 0 | 🌐 HTML | 📅 2015-10-29
+* <https://github.com/shonumi/Emu-Docs/tree/master/GameBoy%20Advance/test_roms> ⭐ 96 | 🐛 0 | 🌐 HTML | 📅 2015-10-29
 * <https://github.com/DenSinH/FuzzARM> ⭐ 51 | 🐛 0 | 🌐 Assembly | 📅 2022-06-14
 * <https://github.com/nba-emu/hw-test> ⚠️ Archived
 * <https://github.com/destoer/armwrestler-gba-fixed> ⭐ 29 | 🐛 0 | 🌐 Assembly | 📅 2020-06-05
@@ -323,7 +323,7 @@
 
 ## Miscellaneous
 
-* emu docs <https://github.com/shonumi/Emu-Docs> ⭐ 95 | 🐛 0 | 🌐 HTML | 📅 2015-10-29
+* emu docs <https://github.com/shonumi/Emu-Docs> ⭐ 96 | 🐛 0 | 🌐 HTML | 📅 2015-10-29
 * japanese docs <https://github.com/pokemium/emu-docs-ja> ⭐ 27 | 🐛 0 | 📅 2025-08-15
 * Common bugs <https://github.com/mattrberry/common-emudev-bugs> ⭐ 18 | 🐛 1 | 📅 2025-06-28
 * collection of 8 bit processor emulators <https://github.com/MoleskiCoder/EightBit> ⭐ 17 | 🐛 0 | 🌐 C++ | 📅 2026-08-26
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

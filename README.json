@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 642,
+                "stars": 643,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -315,7 +315,7 @@
                 "open_issues": 22,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4505,
+                "stars": 4507,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -755,7 +755,7 @@
                 "open_issues": 0,
                 "owner": "shonumi",
                 "repo": "Emu-Docs",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1680,7 +1680,7 @@
             "open_issues": 0,
             "owner": "shonumi",
             "repo": "Emu-Docs",
-            "stars": 95,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:02:39.417Z",
+    "last_updated": "2026-09-16T07:56:18.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
