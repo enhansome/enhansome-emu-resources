@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 644,
+                "stars": 645,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -315,7 +315,7 @@
                 "open_issues": 23,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4509,
+                "stars": 4508,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -1103,7 +1103,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5107,
+                "stars": 5106,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1411,8 +1411,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-19T06:47:59Z",
-                "open_issues": 159,
+                "last_commit": "2026-09-19T08:02:11Z",
+                "open_issues": 161,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
                 "stars": 994,
@@ -1487,7 +1487,7 @@
                 "open_issues": 1,
                 "owner": "JaCzekanski",
                 "repo": "ps1-tests",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:33:15.740Z",
+    "last_updated": "2026-09-20T07:55:57.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
