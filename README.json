@@ -17,8 +17,8 @@
                 "id": 36501634,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T17:48:35Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-22T07:25:20Z",
+                "open_issues": 21,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
                 "stars": 5202,
@@ -1103,7 +1103,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5106,
+                "stars": 5105,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1411,8 +1411,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-21T00:24:21Z",
-                "open_issues": 163,
+                "last_commit": "2026-09-22T06:59:38Z",
+                "open_issues": 165,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
                 "stars": 996,
@@ -1557,7 +1557,7 @@
                 "open_issues": 47,
                 "owner": "m35",
                 "repo": "jpsxdec",
-                "stars": 602,
+                "stars": 603,
                 "topics": [
                   "audio",
                   "converter",
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T08:13:31.549Z",
+    "last_updated": "2026-09-22T07:57:36.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
