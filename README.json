@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5202,
+                "stars": 5204,
                 "topics": [
                   "cython",
                   "emulator",
@@ -315,7 +315,7 @@
                 "open_issues": 23,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4510,
+                "stars": 4511,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -755,7 +755,7 @@
                 "open_issues": 0,
                 "owner": "shonumi",
                 "repo": "Emu-Docs",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1411,11 +1411,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-22T06:59:38Z",
-                "open_issues": 165,
+                "last_commit": "2026-09-23T00:33:38Z",
+                "open_issues": 160,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 996,
+                "stars": 997,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1525,7 +1525,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-21T00:18:10Z",
+                "last_commit": "2026-09-22T17:26:28Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1557,7 +1557,7 @@
                 "open_issues": 47,
                 "owner": "m35",
                 "repo": "jpsxdec",
-                "stars": 603,
+                "stars": 604,
                 "topics": [
                   "audio",
                   "converter",
@@ -1680,7 +1680,7 @@
             "open_issues": 0,
             "owner": "shonumi",
             "repo": "Emu-Docs",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:57:36.478Z",
+    "last_updated": "2026-09-23T07:58:53.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
