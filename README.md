@@ -11,8 +11,8 @@
 
 * gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,204 | 🐛 21 | 🌐 Python | 📅 2026-09-22
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 467 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
-* cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25
-* gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25
+* cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 213 | 🐛 0 | 🌐 C | 📅 2026-01-25
+* gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 213 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * ppu docs <https://github.com/mattcurrie/mealybug-tearoom-tests/blob/master/the-comprehensive-game-boy-ppu-documentation.md> ⭐ 70 | 🐛 0 | 🌐 Assembly | 📅 2020-12-19
 * pandocs <http://bgb.bircd.org/pandocs.htm>
 * gb cycle timing <http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt>
@@ -41,7 +41,7 @@
 ### Tests
 
 * mooneye gb test roms <https://github.com/Gekkio/mooneye-gb/tree/master/tests> ⭐ 970 | 🐛 43 | 🌐 Rust | 📅 2023-03-16
-* test roms <https://github.com/retrio/gb-test-roms> ⭐ 645 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
+* test roms <https://github.com/retrio/gb-test-roms> ⭐ 646 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
 * collection of test roms <https://github.com/c-sp/gameboy-test-roms> ⭐ 257 | 🐛 0 | 🌐 Shell | 📅 2025-04-27
 * yet another test roms <https://github.com/mattcurrie/mealybug-tearoom-tests> ⭐ 70 | 🐛 0 | 🌐 Assembly | 📅 2020-12-19
 * blargg tests <https://gbdev.gg8.se/files/roms/blargg-gb-tests/>
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,512 | 🐛 24 | 📅 2026-07-22
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,513 | 🐛 24 | 📅 2026-07-22
 * custom Boot ROM <https://github.com/Hacktix/Bootix> ⭐ 84 | 🐛 1 | 🌐 Assembly | 📅 2021-03-12
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
@@ -96,7 +96,7 @@
 ### Emulator source codes
 
 * <https://github.com/fleroviux/NanoboyAdvance> ⚠️ Archived
-* <https://github.com/AntonioND/giibiiadvance> ⭐ 214 | 🐛 0 | 🌐 C | 📅 2026-01-25 (includes gb and gbc)
+* <https://github.com/AntonioND/giibiiadvance> ⭐ 213 | 🐛 0 | 🌐 C | 📅 2026-01-25 (includes gb and gbc)
 * <https://github.com/DenSinH/DSHBA> ⭐ 71 | 🐛 0 | 🌐 C++ | 📅 2021-06-06
 
 ### Documentation
@@ -207,7 +207,7 @@
 ### Tests
 
 * <https://github.com/koute/pinky/tree/master/mos6502/roms> ⭐ 810 | 🐛 11 | 🌐 Rust | 📅 2023-11-27
-* <https://github.com/christopherpow/nes-test-roms> ⭐ 613 | 🐛 1 | 🌐 Assembly | 📅 2022-03-02
+* <https://github.com/christopherpow/nes-test-roms> ⭐ 614 | 🐛 1 | 🌐 Assembly | 📅 2022-03-02
 * <https://github.com/Klaus2m5/6502_65C02_functional_tests> ⭐ 526 | 🐛 5 | 📅 2023-03-07
 * <http://wiki.nesdev.com/w/index.php/Emulator_tests>
 * <http://www.qmtpro.com/~nes/misc/> (nestest inside)
@@ -229,7 +229,7 @@
 ### Implementation
 
 * <https://github.com/amhndu/SimpleNES> ⭐ 5,106 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
-* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,546 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
+* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,547 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
 * <https://github.com/AndreaOrru/LaiNES> ⭐ 1,517 | 🐛 10 | 🌐 C++ | 📅 2025-11-06
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2022-07-18
 * <https://github.com/Xyene/Emulator.NES> ⭐ 186 | 🐛 0 | 🌐 C# | 📅 2018-10-14
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 997 | 🐛 163 | 🌐 C++ | 📅 2026-09-24 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 997 | 🐛 154 | 🌐 C++ | 📅 2026-09-25 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

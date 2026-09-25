@@ -71,7 +71,7 @@
                 "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
-                "stars": 214,
+                "stars": 213,
                 "topics": [
                   "c",
                   "gameboy",
@@ -102,7 +102,7 @@
                 "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
-                "stars": 214,
+                "stars": 213,
                 "topics": [
                   "c",
                   "gameboy",
@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 645,
+                "stars": 646,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -315,7 +315,7 @@
                 "open_issues": 24,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4512,
+                "stars": 4513,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -497,7 +497,7 @@
                 "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
-                "stars": 214,
+                "stars": 213,
                 "topics": [
                   "c",
                   "gameboy",
@@ -1054,7 +1054,7 @@
                 "open_issues": 1,
                 "owner": "christopherpow",
                 "repo": "nes-test-roms",
-                "stars": 613,
+                "stars": 614,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1129,7 +1129,7 @@
                 "open_issues": 41,
                 "owner": "OneLoneCoder",
                 "repo": "olcNES",
-                "stars": 1546,
+                "stars": 1547,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1411,8 +1411,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-24T06:30:24Z",
-                "open_issues": 163,
+                "last_commit": "2026-09-25T04:55:13Z",
+                "open_issues": 154,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
                 "stars": 997,
@@ -1525,7 +1525,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-24T00:40:36Z",
+                "last_commit": "2026-09-24T18:54:27Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T07:50:16.629Z",
+    "last_updated": "2026-09-25T08:12:26.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
