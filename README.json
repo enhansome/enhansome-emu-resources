@@ -17,11 +17,11 @@
                 "id": 36501634,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-26T19:37:09Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-27T19:56:30Z",
+                "open_issues": 22,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5206,
+                "stars": 5210,
                 "topics": [
                   "cython",
                   "emulator",
@@ -311,11 +311,11 @@
                 "id": 52347647,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-22T19:03:27Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-27T23:30:37Z",
+                "open_issues": 23,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4514,
+                "stars": 4515,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -1411,11 +1411,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-26T10:13:36Z",
-                "open_issues": 156,
+                "last_commit": "2026-09-28T02:07:17Z",
+                "open_issues": 152,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 997,
+                "stars": 998,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1525,7 +1525,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-26T16:37:19Z",
+                "last_commit": "2026-09-28T08:17:29Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1557,7 +1557,7 @@
                 "open_issues": 47,
                 "owner": "m35",
                 "repo": "jpsxdec",
-                "stars": 604,
+                "stars": 605,
                 "topics": [
                   "audio",
                   "converter",
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T08:35:17.505Z",
+    "last_updated": "2026-09-28T08:58:53.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
