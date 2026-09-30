@@ -21,7 +21,7 @@
                 "open_issues": 22,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5209,
+                "stars": 5211,
                 "topics": [
                   "cython",
                   "emulator",
@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 646,
+                "stars": 648,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -315,7 +315,7 @@
                 "open_issues": 23,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4518,
+                "stars": 4519,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -1103,7 +1103,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5108,
+                "stars": 5109,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1411,11 +1411,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-28T22:03:31Z",
-                "open_issues": 154,
+                "last_commit": "2026-09-30T08:51:50Z",
+                "open_issues": 115,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 999,
+                "stars": 1001,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1525,7 +1525,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-29T03:52:30Z",
+                "last_commit": "2026-09-30T04:06:20Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T09:07:21.425Z",
+    "last_updated": "2026-09-30T09:02:13.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
