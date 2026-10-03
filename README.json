@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5213,
+                "stars": 5212,
                 "topics": [
                   "cython",
                   "emulator",
@@ -629,7 +629,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1344,
+                "stars": 1345,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1525,7 +1525,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-03T03:20:38Z",
+                "last_commit": "2026-10-03T07:39:46Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:42:01.541Z",
+    "last_updated": "2026-10-03T08:35:08.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
