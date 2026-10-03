@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "gb overview https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf",
-              "description": null,
+              "description": "Baekalfen/PyBoy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -17,8 +17,8 @@
                 "id": 36501634,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T19:27:58Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-02T18:58:48Z",
+                "open_issues": 20,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
                 "stars": 5213,
@@ -37,7 +37,7 @@
             {
               "node_type": "item",
               "title": "wiki https://github.com/dooskington/gamelad/wiki",
-              "description": null,
+              "description": "Dooskington/GameLad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -58,7 +58,7 @@
             {
               "node_type": "item",
               "title": "cycle accurate gb docs https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf",
-              "description": null,
+              "description": "AntonioND/giibiiadvance",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -89,7 +89,7 @@
             {
               "node_type": "item",
               "title": "gb sound https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt",
-              "description": null,
+              "description": "AntonioND/giibiiadvance",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -120,7 +120,7 @@
             {
               "node_type": "item",
               "title": "ppu docs https://github.com/mattcurrie/mealybug-tearoom-tests/blob/master/the-comprehensive-game-boy-ppu-documentation.md",
-              "description": null,
+              "description": "mattcurrie/mealybug-tearoom-tests",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -152,7 +152,7 @@
             {
               "node_type": "item",
               "title": "mooneye gb test roms https://github.com/Gekkio/mooneye-gb/tree/master/tests",
-              "description": null,
+              "description": "Gekkio/mooneye-gb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -179,7 +179,7 @@
             {
               "node_type": "item",
               "title": "test roms https://github.com/retrio/gb-test-roms",
-              "description": null,
+              "description": "retrio/gb-test-roms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 649,
+                "stars": 648,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -200,7 +200,7 @@
             {
               "node_type": "item",
               "title": "collection of test roms https://github.com/c-sp/gameboy-test-roms",
-              "description": null,
+              "description": "c-sp/game-boy-test-roms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -242,7 +242,7 @@
             {
               "node_type": "item",
               "title": "yet another test roms https://github.com/mattcurrie/mealybug-tearoom-tests",
-              "description": null,
+              "description": "mattcurrie/mealybug-tearoom-tests",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -302,7 +302,7 @@
             {
               "node_type": "item",
               "title": "awesome list of gb resources https://github.com/gbdev/awesome-gbdev",
-              "description": null,
+              "description": "gbdev/awesome-gbdev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -312,7 +312,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-27T23:30:37Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
                 "stars": 4520,
@@ -343,7 +343,7 @@
             {
               "node_type": "item",
               "title": "custom Boot ROM https://github.com/Hacktix/Bootix",
-              "description": null,
+              "description": "Ashiepaws/Bootix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -369,7 +369,7 @@
             {
               "node_type": "item",
               "title": "gb gotchas https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md",
-              "description": null,
+              "description": "fwsGonzo/gamebro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -397,7 +397,7 @@
             {
               "node_type": "item",
               "title": "gpu implementation https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs",
-              "description": null,
+              "description": "mattbruv/Gameboy-Crust",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -418,7 +418,7 @@
             {
               "node_type": "item",
               "title": "gb resources https://github.com/cslarsen/gameboy#references",
-              "description": null,
+              "description": "cslarsen/gameboy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -456,7 +456,7 @@
             {
               "node_type": "item",
               "title": "nba-emu/NanoBoyAdvance",
-              "description": null,
+              "description": "nba-emu/NanoBoyAdvance",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -515,7 +515,7 @@
             {
               "node_type": "item",
               "title": "DenSinH/DSHBA",
-              "description": null,
+              "description": "DenSinH/DSHBA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -546,7 +546,7 @@
             {
               "node_type": "item",
               "title": "nba-emu/hw-docs",
-              "description": null,
+              "description": "nba-emu/hw-docs",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -567,7 +567,7 @@
             {
               "node_type": "item",
               "title": "mara-kr/GBA",
-              "description": null,
+              "description": "mara-kr/GBA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -588,7 +588,7 @@
             {
               "node_type": "item",
               "title": "falvarez/gba-doc",
-              "description": null,
+              "description": "falvarez/gba-doc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -616,7 +616,7 @@
             {
               "node_type": "item",
               "title": "gbadev-org/awesome-gbadev",
-              "description": null,
+              "description": "gbadev-org/awesome-gbadev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -646,7 +646,7 @@
             {
               "node_type": "item",
               "title": "JimB16/GBABios",
-              "description": null,
+              "description": "JimB16/GBABios",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -674,7 +674,7 @@
             {
               "node_type": "item",
               "title": "PeterLemon/GBA",
-              "description": null,
+              "description": "PeterLemon/GBA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -695,7 +695,7 @@
             {
               "node_type": "item",
               "title": "jsmolka/gba-tests",
-              "description": null,
+              "description": "jsmolka/gba-tests",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -721,7 +721,7 @@
             {
               "node_type": "item",
               "title": "mgba-emu/suite",
-              "description": null,
+              "description": "mgba-emu/suite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -734,7 +734,7 @@
                 "open_issues": 9,
                 "owner": "mgba-emu",
                 "repo": "suite",
-                "stars": 102,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -742,7 +742,7 @@
             {
               "node_type": "item",
               "title": "shonumi/Emu-Docs",
-              "description": null,
+              "description": "shonumi/Emu-Docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -763,7 +763,7 @@
             {
               "node_type": "item",
               "title": "DenSinH/FuzzARM",
-              "description": null,
+              "description": "DenSinH/FuzzARM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -784,7 +784,7 @@
             {
               "node_type": "item",
               "title": "nba-emu/hw-test",
-              "description": null,
+              "description": "nba-emu/hw-test",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -805,7 +805,7 @@
             {
               "node_type": "item",
               "title": "destoer/armwrestler-gba-fixed",
-              "description": null,
+              "description": "destoer/armwrestler-gba-fixed",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -826,7 +826,7 @@
             {
               "node_type": "item",
               "title": "destoer/gba_tests",
-              "description": null,
+              "description": "destoer/gba_tests",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -847,7 +847,7 @@
             {
               "node_type": "item",
               "title": "DenSinH/GBARoms",
-              "description": null,
+              "description": "DenSinH/GBARoms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -868,7 +868,7 @@
             {
               "node_type": "item",
               "title": "ladystarbreeze/GBA-Test-Collection",
-              "description": null,
+              "description": "ladystarbreeze/GBA-Test-Collection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -889,7 +889,7 @@
             {
               "node_type": "item",
               "title": "skylersaleh/GBA-Logs",
-              "description": null,
+              "description": "skylersaleh/GBA-Logs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -910,7 +910,7 @@
             {
               "node_type": "item",
               "title": "samkravitz/gba-acid",
-              "description": null,
+              "description": "samkravitz/gba-acid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -942,7 +942,7 @@
         {
           "node_type": "item",
           "title": "RockPolish/rockwrestler",
-          "description": null,
+          "description": "RockPolish/rockwrestler",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -963,7 +963,7 @@
         {
           "node_type": "item",
           "title": "Atem2069/armwrestler-fixed",
-          "description": null,
+          "description": "Atem2069/armwrestler-fixed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -992,7 +992,7 @@
             {
               "node_type": "item",
               "title": "davepoo/6502Emulator",
-              "description": null,
+              "description": "davepoo/6502Emulator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1020,7 +1020,7 @@
             {
               "node_type": "item",
               "title": "koute/pinky",
-              "description": null,
+              "description": "koute/pinky",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1041,7 +1041,7 @@
             {
               "node_type": "item",
               "title": "christopherpow/nes-test-roms",
-              "description": null,
+              "description": "christopherpow/nes-test-roms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1062,7 +1062,7 @@
             {
               "node_type": "item",
               "title": "Klaus2m5/6502_65C02_functional_tests",
-              "description": null,
+              "description": "Klaus2m5/6502_65C02_functional_tests",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1090,7 +1090,7 @@
             {
               "node_type": "item",
               "title": "amhndu/SimpleNES",
-              "description": null,
+              "description": "amhndu/SimpleNES",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1103,7 +1103,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5109,
+                "stars": 5108,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1116,7 +1116,7 @@
             {
               "node_type": "item",
               "title": "OneLoneCoder/olcNES",
-              "description": null,
+              "description": "OneLoneCoder/olcNES",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1137,7 +1137,7 @@
             {
               "node_type": "item",
               "title": "AndreaOrru/LaiNES",
-              "description": null,
+              "description": "AndreaOrru/LaiNES",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1165,7 +1165,7 @@
             {
               "node_type": "item",
               "title": "wpmed92/MedNES",
-              "description": null,
+              "description": "wpmed92/MedNES",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1193,7 +1193,7 @@
             {
               "node_type": "item",
               "title": "Xyene/Emulator.NES",
-              "description": null,
+              "description": "Xyene/Emulator.NES",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1221,7 +1221,7 @@
             {
               "node_type": "item",
               "title": "yizhang82/neschan",
-              "description": null,
+              "description": "yizhang82/neschan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1242,7 +1242,7 @@
             {
               "node_type": "item",
               "title": "PeterLemon/NES",
-              "description": null,
+              "description": "PeterLemon/NES",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1270,7 +1270,7 @@
             {
               "node_type": "item",
               "title": "pjhades/tolarian-academy",
-              "description": null,
+              "description": "pjhades/tolarian-academy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1291,7 +1291,7 @@
             {
               "node_type": "item",
               "title": "pjhades/tolarian-academy",
-              "description": null,
+              "description": "pjhades/tolarian-academy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1312,7 +1312,7 @@
             {
               "node_type": "item",
               "title": "pjhades/tolarian-academy",
-              "description": null,
+              "description": "pjhades/tolarian-academy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1335,7 +1335,7 @@
                 {
                   "node_type": "item",
                   "title": "jmk/cc65-nes-examples",
-                  "description": null,
+                  "description": "jmk/cc65-nes-examples",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1374,7 +1374,7 @@
             {
               "node_type": "item",
               "title": "simias/psx-guide",
-              "description": null,
+              "description": "simias/psx-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1411,8 +1411,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-02T09:00:48Z",
-                "open_issues": 107,
+                "last_commit": "2026-10-03T02:21:10Z",
+                "open_issues": 101,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
                 "stars": 1004,
@@ -1425,7 +1425,7 @@
             {
               "node_type": "item",
               "title": "UnsafePointer/ruby",
-              "description": null,
+              "description": "UnsafePointer/ruby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1474,7 +1474,7 @@
             {
               "node_type": "item",
               "title": "JaCzekanski/ps1-tests",
-              "description": null,
+              "description": "JaCzekanski/ps1-tests",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1495,7 +1495,7 @@
             {
               "node_type": "item",
               "title": "simias/psx-hardware-tests",
-              "description": null,
+              "description": "simias/psx-hardware-tests",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1516,7 +1516,7 @@
             {
               "node_type": "item",
               "title": "nicolasnoble/pcsx-redux",
-              "description": null,
+              "description": "nicolasnoble/pcsx-redux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1525,7 +1525,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-01T17:23:35Z",
+                "last_commit": "2026-10-03T03:20:38Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1544,7 +1544,7 @@
             {
               "node_type": "item",
               "title": "m35/jpsxdec",
-              "description": null,
+              "description": "m35/jpsxdec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1590,7 +1590,7 @@
         {
           "node_type": "item",
           "title": "spencertipping/jit-tutorial",
-          "description": null,
+          "description": "spencertipping/jit-tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1611,7 +1611,7 @@
         {
           "node_type": "item",
           "title": "tekknolagi/ghuloum",
-          "description": null,
+          "description": "tekknolagi/ghuloum",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1640,7 +1640,7 @@
         {
           "node_type": "item",
           "title": "antocuni/jit30min",
-          "description": null,
+          "description": "antocuni/jit30min",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1667,7 +1667,7 @@
         {
           "node_type": "item",
           "title": "emu docs https://github.com/shonumi/Emu-Docs",
-          "description": null,
+          "description": "shonumi/Emu-Docs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1688,7 +1688,7 @@
         {
           "node_type": "item",
           "title": "japanese docs https://github.com/pokemium/emu-docs-ja",
-          "description": null,
+          "description": "akatsuki105/emu-docs-ja",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1725,7 +1725,7 @@
         {
           "node_type": "item",
           "title": "Common bugs https://github.com/mattrberry/common-emudev-bugs",
-          "description": null,
+          "description": "mattrbeck/common-emudev-bugs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1746,7 +1746,7 @@
         {
           "node_type": "item",
           "title": "collection of 8 bit processor emulators https://github.com/MoleskiCoder/EightBit",
-          "description": null,
+          "description": "MoleskiCoder/EightBit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:02:24.400Z",
+    "last_updated": "2026-10-03T04:42:01.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
