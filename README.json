@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5212,
+                "stars": 5214,
                 "topics": [
                   "cython",
                   "emulator",
@@ -165,7 +165,7 @@
                 "open_issues": 43,
                 "owner": "Gekkio",
                 "repo": "mooneye-gb",
-                "stars": 970,
+                "stars": 972,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -310,12 +310,12 @@
                 "homepage": "https://gbdev.io/resources",
                 "id": 52347647,
                 "language": null,
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-27T23:30:37Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-03T20:27:22Z",
                 "open_issues": 25,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4520,
+                "stars": 4521,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -1033,7 +1033,7 @@
                 "open_issues": 11,
                 "owner": "koute",
                 "repo": "pinky",
-                "stars": 810,
+                "stars": 812,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1075,7 +1075,7 @@
                 "open_issues": 5,
                 "owner": "Klaus2m5",
                 "repo": "6502_65C02_functional_tests",
-                "stars": 526,
+                "stars": 528,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1411,11 +1411,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-03T02:21:10Z",
-                "open_issues": 101,
+                "last_commit": "2026-10-03T23:23:41Z",
+                "open_issues": 108,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 1004,
+                "stars": 1006,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1525,7 +1525,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-03T07:39:46Z",
+                "last_commit": "2026-10-04T06:23:19Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T08:35:08.438Z",
+    "last_updated": "2026-10-04T08:51:26.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
@@ -1793,7 +1793,7 @@
       "open_issues": 0,
       "owner": "marethyu",
       "repo": "awesome-emu-resources",
-      "stars": 158,
+      "stars": 159,
       "topics": [
         "awesome",
         "awesome-list",
