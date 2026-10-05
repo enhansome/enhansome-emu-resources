@@ -9,7 +9,7 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,214 | 🐛 20 | 🌐 Python | 📅 2026-10-02
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,215 | 🐛 20 | 🌐 Python | 📅 2026-10-02
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 467 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 208 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 208 | 🐛 0 | 🌐 C | 📅 2026-01-25
@@ -178,7 +178,7 @@
 
 ### CPU
 
-* <https://github.com/davepoo/6502Emulator> ⭐ 603 | 🐛 5 | 🌐 C++ | 📅 2021-02-16
+* <https://github.com/davepoo/6502Emulator> ⭐ 604 | 🐛 5 | 🌐 C++ | 📅 2021-02-16
 * <http://nesdev.com/6502_cpu.txt>
 * <https://www.nesdev.com/6502.txt>
 * <http://www.slack.net/~ant/nes-emu/6502.html>
@@ -229,7 +229,7 @@
 ### Implementation
 
 * <https://github.com/amhndu/SimpleNES> ⭐ 5,108 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
-* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,550 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
+* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,549 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
 * <https://github.com/AndreaOrru/LaiNES> ⭐ 1,518 | 🐛 10 | 🌐 C++ | 📅 2025-11-06
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2022-07-18
 * <https://github.com/Xyene/Emulator.NES> ⭐ 186 | 🐛 0 | 🌐 C# | 📅 2018-10-14
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,006 | 🐛 108 | 🌐 C++ | 📅 2026-10-03 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,007 | 🐛 101 | 🌐 C++ | 📅 2026-10-05 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._

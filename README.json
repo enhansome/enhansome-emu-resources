@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5214,
+                "stars": 5215,
                 "topics": [
                   "cython",
                   "emulator",
@@ -1005,7 +1005,7 @@
                 "open_issues": 5,
                 "owner": "davepoo",
                 "repo": "6502Emulator",
-                "stars": 603,
+                "stars": 604,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1129,7 +1129,7 @@
                 "open_issues": 41,
                 "owner": "OneLoneCoder",
                 "repo": "olcNES",
-                "stars": 1550,
+                "stars": 1549,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1411,11 +1411,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-03T23:23:41Z",
-                "open_issues": 108,
+                "last_commit": "2026-10-05T08:23:42Z",
+                "open_issues": 101,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 1006,
+                "stars": 1007,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1525,7 +1525,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-04T06:23:19Z",
+                "last_commit": "2026-10-04T14:34:10Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1781,7 +1781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T08:51:26.434Z",
+    "last_updated": "2026-10-05T09:38:10.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
@@ -1793,7 +1793,7 @@
       "open_issues": 0,
       "owner": "marethyu",
       "repo": "awesome-emu-resources",
-      "stars": 159,
+      "stars": 160,
       "topics": [
         "awesome",
         "awesome-list",
