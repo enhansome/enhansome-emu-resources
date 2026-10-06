@@ -17,11 +17,11 @@
                 "id": 36501634,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T18:58:48Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-05T12:32:16Z",
+                "open_issues": 22,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5215,
+                "stars": 5214,
                 "topics": [
                   "cython",
                   "emulator",
@@ -342,32 +342,6 @@
             },
             {
               "node_type": "item",
-              "title": "custom Boot ROM https://github.com/Hacktix/Bootix",
-              "description": "Ashiepaws/Bootix",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Custom copyright-free Gameboy Bootroms.",
-                "homepage": null,
-                "id": 345199574,
-                "language": "Assembly",
-                "license": "CC0-1.0",
-                "last_commit": "2021-03-12T23:36:22Z",
-                "open_issues": 1,
-                "owner": "Ashiepaws",
-                "repo": "Bootix",
-                "stars": 84,
-                "topics": [
-                  "bootrom",
-                  "dmg",
-                  "free-gameboy-bootroms",
-                  "gameboy"
-                ]
-              },
-              "first_seen": "2026-08-28T14:36:37.932Z"
-            },
-            {
-              "node_type": "item",
               "title": "gb gotchas https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md",
               "description": "fwsGonzo/gamebro",
               "children": [],
@@ -439,6 +413,27 @@
                 ]
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
+            },
+            {
+              "node_type": "item",
+              "title": "custom Boot ROM https://github.com/Hacktix/Bootix",
+              "description": "hacktix/bootix",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Custom copyright-free Gameboy Bootroms.",
+                "homepage": null,
+                "id": 1406609925,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2021-03-12T23:36:22Z",
+                "open_issues": 0,
+                "owner": "hacktix",
+                "repo": "bootix",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-06T09:27:33.590Z"
             }
           ],
           "description": null,
@@ -629,7 +624,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1345,
+                "stars": 1346,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1054,7 +1049,7 @@
                 "open_issues": 2,
                 "owner": "christopherpow",
                 "repo": "nes-test-roms",
-                "stars": 617,
+                "stars": 618,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1103,7 +1098,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5108,
+                "stars": 5107,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1129,7 +1124,7 @@
                 "open_issues": 41,
                 "owner": "OneLoneCoder",
                 "repo": "olcNES",
-                "stars": 1549,
+                "stars": 1547,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1411,11 +1406,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-05T08:23:42Z",
-                "open_issues": 101,
+                "last_commit": "2026-10-05T23:08:47Z",
+                "open_issues": 108,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 1007,
+                "stars": 1006,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1525,7 +1520,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-04T14:34:10Z",
+                "last_commit": "2026-10-06T04:25:17Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1781,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T09:38:10.489Z",
+    "last_updated": "2026-10-06T09:27:33.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
