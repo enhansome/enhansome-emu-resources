@@ -9,7 +9,7 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,216 | 🐛 19 | 🌐 Python | 📅 2026-10-07
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,217 | 🐛 19 | 🌐 Python | 📅 2026-10-07
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 467 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 208 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 208 | 🐛 0 | 🌐 C | 📅 2026-01-25
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,520 | 🐛 25 | 📅 2026-10-03
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,521 | 🐛 25 | 📅 2026-10-03
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
 * gb resources <https://github.com/cslarsen/gameboy#references> ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-12-26
@@ -129,7 +129,7 @@
 
 ### Others
 
-* <https://github.com/gbdev/awesome-gbadev> ⭐ 1,347 | 🐛 6 | 📅 2026-01-30
+* <https://github.com/gbdev/awesome-gbadev> ⭐ 1,349 | 🐛 6 | 📅 2026-01-30
 * <https://github.com/JimB16/GBABios/blob/master/GBABios.s> ⭐ 7 | 🐛 0 | 🌐 Assembly | 📅 2015-10-02
 * gba resources <https://en.wikibooks.org/wiki/GBA_Development/Resources>
 * blog post <https://medium.com/@michelheily/hello-gba-journey-of-making-an-emulator-part-1-8793000e8606>
@@ -178,7 +178,7 @@
 
 ### CPU
 
-* <https://github.com/davepoo/6502Emulator> ⭐ 605 | 🐛 5 | 🌐 C++ | 📅 2021-02-16
+* <https://github.com/davepoo/6502Emulator> ⭐ 606 | 🐛 5 | 🌐 C++ | 📅 2021-02-16
 * <http://nesdev.com/6502_cpu.txt>
 * <https://www.nesdev.com/6502.txt>
 * <http://www.slack.net/~ant/nes-emu/6502.html>
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,006 | 🐛 107 | 🌐 C++ | 📅 2026-10-07 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,009 | 🐛 109 | 🌐 C++ | 📅 2026-10-08 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
