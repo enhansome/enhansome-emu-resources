@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5217,
+                "stars": 5218,
                 "topics": [
                   "cython",
                   "emulator",
@@ -312,10 +312,10 @@
                 "language": null,
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-03T20:27:22Z",
-                "open_issues": 25,
+                "open_issues": 24,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4521,
+                "stars": 4522,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -950,7 +950,7 @@
             "open_issues": 0,
             "owner": "RockPolish",
             "repo": "rockwrestler",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1406,11 +1406,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-08T07:27:29Z",
-                "open_issues": 109,
+                "last_commit": "2026-10-09T09:31:54Z",
+                "open_issues": 105,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 1009,
+                "stars": 1010,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1479,7 +1479,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2023-03-05T20:35:36Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "JaCzekanski",
                 "repo": "ps1-tests",
                 "stars": 93,
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:32:53.095Z",
+    "last_updated": "2026-10-09T09:40:24.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
