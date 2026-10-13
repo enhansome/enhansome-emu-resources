@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5221,
+                "stars": 5222,
                 "topics": [
                   "cython",
                   "emulator",
@@ -312,10 +312,10 @@
                 "language": null,
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-03T20:27:22Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4527,
+                "stars": 4528,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -464,7 +464,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1307,
+                "stars": 1308,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -729,7 +729,7 @@
                 "open_issues": 9,
                 "owner": "mgba-emu",
                 "repo": "suite",
-                "stars": 101,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1098,7 +1098,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5110,
+                "stars": 5111,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1124,7 +1124,7 @@
                 "open_issues": 41,
                 "owner": "OneLoneCoder",
                 "repo": "olcNES",
-                "stars": 1547,
+                "stars": 1546,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1343,7 +1343,7 @@
                     "open_issues": 0,
                     "owner": "jmk",
                     "repo": "cc65-nes-examples",
-                    "stars": 86,
+                    "stars": 87,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1406,11 +1406,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-12T09:04:34Z",
-                "open_issues": 89,
+                "last_commit": "2026-10-13T08:36:53Z",
+                "open_issues": 90,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 1013,
+                "stars": 1014,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1520,7 +1520,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-12T04:57:16Z",
+                "last_commit": "2026-10-13T05:46:34Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1598,7 +1598,7 @@
             "open_issues": 0,
             "owner": "spencertipping",
             "repo": "jit-tutorial",
-            "stars": 1933,
+            "stars": 1932,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T09:49:09.568Z",
+    "last_updated": "2026-10-13T09:46:03.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
