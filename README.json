@@ -17,11 +17,11 @@
                 "id": 36501634,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T07:11:08Z",
+                "last_commit": "2026-10-14T15:04:04Z",
                 "open_issues": 20,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5224,
+                "stars": 5226,
                 "topics": [
                   "cython",
                   "emulator",
@@ -311,11 +311,11 @@
                 "id": 52347647,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T21:53:58Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-14T18:01:59Z",
+                "open_issues": 24,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4529,
+                "stars": 4531,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -624,7 +624,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1352,
+                "stars": 1353,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1000,7 +1000,7 @@
                 "open_issues": 5,
                 "owner": "davepoo",
                 "repo": "6502Emulator",
-                "stars": 606,
+                "stars": 605,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1028,7 +1028,7 @@
                 "open_issues": 11,
                 "owner": "koute",
                 "repo": "pinky",
-                "stars": 811,
+                "stars": 810,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1098,7 +1098,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5113,
+                "stars": 5115,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1343,7 +1343,7 @@
                     "open_issues": 0,
                     "owner": "jmk",
                     "repo": "cc65-nes-examples",
-                    "stars": 87,
+                    "stars": 88,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1406,8 +1406,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-14T06:37:23Z",
-                "open_issues": 89,
+                "last_commit": "2026-10-15T07:10:38Z",
+                "open_issues": 98,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
                 "stars": 1014,
@@ -1520,7 +1520,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-13T05:46:34Z",
+                "last_commit": "2026-10-15T06:06:58Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T08:03:18.545Z",
+    "last_updated": "2026-10-15T07:44:46.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
