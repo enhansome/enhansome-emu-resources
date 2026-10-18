@@ -41,7 +41,7 @@
 ### Tests
 
 * mooneye gb test roms <https://github.com/Gekkio/mooneye-gb/tree/master/tests> ⭐ 971 | 🐛 43 | 🌐 Rust | 📅 2023-03-16
-* test roms <https://github.com/retrio/gb-test-roms> ⭐ 651 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
+* test roms <https://github.com/retrio/gb-test-roms> ⭐ 652 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
 * collection of test roms <https://github.com/c-sp/gameboy-test-roms> ⭐ 257 | 🐛 0 | 🌐 Shell | 📅 2025-04-27
 * yet another test roms <https://github.com/mattcurrie/mealybug-tearoom-tests> ⭐ 71 | 🐛 0 | 🌐 Assembly | 📅 2020-12-19
 * blargg tests <https://gbdev.gg8.se/files/roms/blargg-gb-tests/>
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,531 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-16
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,530 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-16
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
 * gb resources <https://github.com/cslarsen/gameboy#references> ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-12-26
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,018 | 🐛 93 | 🌐 C++ | 📅 2026-10-17 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,021 | 🐛 101 | 🌐 C++ | 📅 2026-10-18 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
