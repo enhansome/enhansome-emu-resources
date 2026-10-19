@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5227,
+                "stars": 5228,
                 "topics": [
                   "cython",
                   "emulator",
@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 652,
+                "stars": 653,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -315,7 +315,7 @@
                 "open_issues": 12,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4530,
+                "stars": 4531,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -624,7 +624,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1354,
+                "stars": 1355,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1145,7 +1145,7 @@
                 "open_issues": 10,
                 "owner": "AndreaOrru",
                 "repo": "LaiNES",
-                "stars": 1518,
+                "stars": 1519,
                 "topics": [
                   "emulator",
                   "emulators",
@@ -1406,11 +1406,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-18T06:38:32Z",
-                "open_issues": 101,
+                "last_commit": "2026-10-19T07:16:55Z",
+                "open_issues": 89,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 1021,
+                "stars": 1026,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:26:27.918Z",
+    "last_updated": "2026-10-19T08:06:52.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",

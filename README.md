@@ -9,7 +9,7 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,227 | 🐛 19 | 🌐 Python | 📅 2026-10-16
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,228 | 🐛 19 | 🌐 Python | 📅 2026-10-16
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 464 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 208 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 208 | 🐛 0 | 🌐 C | 📅 2026-01-25
@@ -41,7 +41,7 @@
 ### Tests
 
 * mooneye gb test roms <https://github.com/Gekkio/mooneye-gb/tree/master/tests> ⭐ 971 | 🐛 43 | 🌐 Rust | 📅 2023-03-16
-* test roms <https://github.com/retrio/gb-test-roms> ⭐ 652 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
+* test roms <https://github.com/retrio/gb-test-roms> ⭐ 653 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
 * collection of test roms <https://github.com/c-sp/gameboy-test-roms> ⭐ 257 | 🐛 0 | 🌐 Shell | 📅 2025-04-27
 * yet another test roms <https://github.com/mattcurrie/mealybug-tearoom-tests> ⭐ 71 | 🐛 0 | 🌐 Assembly | 📅 2020-12-19
 * blargg tests <https://gbdev.gg8.se/files/roms/blargg-gb-tests/>
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,530 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-16
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,531 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-16
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
 * gb resources <https://github.com/cslarsen/gameboy#references> ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-12-26
@@ -129,7 +129,7 @@
 
 ### Others
 
-* <https://github.com/gbdev/awesome-gbadev> ⭐ 1,354 | 🐛 6 | 📅 2026-01-30
+* <https://github.com/gbdev/awesome-gbadev> ⭐ 1,355 | 🐛 6 | 📅 2026-01-30
 * <https://github.com/JimB16/GBABios/blob/master/GBABios.s> ⭐ 7 | 🐛 0 | 🌐 Assembly | 📅 2015-10-02
 * gba resources <https://en.wikibooks.org/wiki/GBA_Development/Resources>
 * blog post <https://medium.com/@michelheily/hello-gba-journey-of-making-an-emulator-part-1-8793000e8606>
@@ -230,7 +230,7 @@
 
 * <https://github.com/amhndu/SimpleNES> ⭐ 5,114 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
 * <https://github.com/OneLoneCoder/olcNES> ⭐ 1,544 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
-* <https://github.com/AndreaOrru/LaiNES> ⭐ 1,518 | 🐛 10 | 🌐 C++ | 📅 2025-11-06
+* <https://github.com/AndreaOrru/LaiNES> ⭐ 1,519 | 🐛 10 | 🌐 C++ | 📅 2025-11-06
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2022-07-18
 * <https://github.com/Xyene/Emulator.NES> ⭐ 186 | 🐛 0 | 🌐 C# | 📅 2018-10-14
 * <https://github.com/yizhang82/neschan> ⭐ 151 | 🐛 2 | 🌐 C++ | 📅 2025-08-10
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,021 | 🐛 101 | 🌐 C++ | 📅 2026-10-18 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,026 | 🐛 89 | 🌐 C++ | 📅 2026-10-19 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
