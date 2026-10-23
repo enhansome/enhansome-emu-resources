@@ -17,11 +17,11 @@
                 "id": 36501634,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T06:33:11Z",
+                "last_commit": "2026-10-22T09:59:54Z",
                 "open_issues": 20,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5227,
+                "stars": 5228,
                 "topics": [
                   "cython",
                   "emulator",
@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 653,
+                "stars": 654,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -315,7 +315,7 @@
                 "open_issues": 12,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4533,
+                "stars": 4534,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -1000,7 +1000,7 @@
                 "open_issues": 5,
                 "owner": "davepoo",
                 "repo": "6502Emulator",
-                "stars": 606,
+                "stars": 605,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1098,7 +1098,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5111,
+                "stars": 5112,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1406,8 +1406,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-22T06:50:29Z",
-                "open_issues": 95,
+                "last_commit": "2026-10-23T06:41:23Z",
+                "open_issues": 99,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
                 "stars": 1030,
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T07:59:24.900Z",
+    "last_updated": "2026-10-23T07:57:59.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
