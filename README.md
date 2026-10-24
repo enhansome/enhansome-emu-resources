@@ -9,7 +9,7 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,228 | 🐛 20 | 🌐 Python | 📅 2026-10-22
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,229 | 🐛 20 | 🌐 Python | 📅 2026-10-22
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 464 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 208 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 208 | 🐛 0 | 🌐 C | 📅 2026-01-25
@@ -228,7 +228,7 @@
 
 ### Implementation
 
-* <https://github.com/amhndu/SimpleNES> ⭐ 5,112 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
+* <https://github.com/amhndu/SimpleNES> ⭐ 5,113 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
 * <https://github.com/OneLoneCoder/olcNES> ⭐ 1,544 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
 * <https://github.com/AndreaOrru/LaiNES> ⭐ 1,519 | 🐛 10 | 🌐 C++ | 📅 2025-11-06
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2022-07-18
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,030 | 🐛 99 | 🌐 C++ | 📅 2026-10-23 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,029 | 🐛 91 | 🌐 C++ | 📅 2026-10-24 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -316,7 +316,7 @@
 
 ## JIT
 
-* <https://github.com/spencertipping/jit-tutorial> ⭐ 1,932 | 🐛 0 | 🌐 C | 📅 2021-05-03
+* <https://github.com/spencertipping/jit-tutorial> ⭐ 1,933 | 🐛 0 | 🌐 C | 📅 2021-05-03
 * <https://github.com/tekknolagi/ghuloum> ⭐ 73 | 🐛 3 | 🌐 C | 📅 2025-11-15
 * <https://github.com/antocuni/jit30min> ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2019-07-11
 * <https://csl.name/post/python-jit/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

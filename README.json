@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5228,
+                "stars": 5229,
                 "topics": [
                   "cython",
                   "emulator",
@@ -1098,7 +1098,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5112,
+                "stars": 5113,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1406,11 +1406,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-23T06:41:23Z",
-                "open_issues": 99,
+                "last_commit": "2026-10-24T06:16:42Z",
+                "open_issues": 91,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 1030,
+                "stars": 1029,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1598,7 +1598,7 @@
             "open_issues": 0,
             "owner": "spencertipping",
             "repo": "jit-tutorial",
-            "stars": 1932,
+            "stars": 1933,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T07:57:59.426Z",
+    "last_updated": "2026-10-24T07:37:25.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
