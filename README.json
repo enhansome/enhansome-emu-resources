@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5229,
+                "stars": 5230,
                 "topics": [
                   "cython",
                   "emulator",
@@ -213,7 +213,7 @@
                 "open_issues": 0,
                 "owner": "c-sp",
                 "repo": "game-boy-test-roms",
-                "stars": 258,
+                "stars": 259,
                 "topics": [
                   "blargg",
                   "bullygb",
@@ -315,7 +315,7 @@
                 "open_issues": 12,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4534,
+                "stars": 4536,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -464,7 +464,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1309,
+                "stars": 1310,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -1406,8 +1406,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-24T06:16:42Z",
-                "open_issues": 91,
+                "last_commit": "2026-10-25T07:05:34Z",
+                "open_issues": 88,
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
                 "stars": 1029,
@@ -1482,7 +1482,7 @@
                 "open_issues": 0,
                 "owner": "JaCzekanski",
                 "repo": "ps1-tests",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1520,7 +1520,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-19T21:31:46Z",
+                "last_commit": "2026-10-25T03:24:05Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1598,7 +1598,7 @@
             "open_issues": 0,
             "owner": "spencertipping",
             "repo": "jit-tutorial",
-            "stars": 1933,
+            "stars": 1934,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T07:37:25.845Z",
+    "last_updated": "2026-10-25T07:49:51.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
