@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5230,
+                "stars": 5231,
                 "topics": [
                   "cython",
                   "emulator",
@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 654,
+                "stars": 655,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -213,7 +213,7 @@
                 "open_issues": 0,
                 "owner": "c-sp",
                 "repo": "game-boy-test-roms",
-                "stars": 259,
+                "stars": 260,
                 "topics": [
                   "blargg",
                   "bullygb",
@@ -624,7 +624,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1355,
+                "stars": 1356,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -778,6 +778,27 @@
             },
             {
               "node_type": "item",
+              "title": "destoer/armwrestler-gba-fixed",
+              "description": "destoer/armwrestler-gba-fixed",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "armwrestler for gba with multiple load-store tests working",
+                "homepage": null,
+                "id": 221324013,
+                "language": "Assembly",
+                "license": null,
+                "last_commit": "2020-06-05T18:16:49Z",
+                "open_issues": 0,
+                "owner": "destoer",
+                "repo": "armwrestler-gba-fixed",
+                "stars": 30,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
+            },
+            {
+              "node_type": "item",
               "title": "nba-emu/hw-test",
               "description": "nba-emu/hw-test",
               "children": [],
@@ -793,27 +814,6 @@
                 "owner": "nba-emu",
                 "repo": "hw-test",
                 "stars": 30,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T14:36:37.932Z"
-            },
-            {
-              "node_type": "item",
-              "title": "destoer/armwrestler-gba-fixed",
-              "description": "destoer/armwrestler-gba-fixed",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "armwrestler for gba with multiple load-store tests working",
-                "homepage": null,
-                "id": 221324013,
-                "language": "Assembly",
-                "license": null,
-                "last_commit": "2020-06-05T18:16:49Z",
-                "open_issues": 0,
-                "owner": "destoer",
-                "repo": "armwrestler-gba-fixed",
-                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -841,27 +841,6 @@
             },
             {
               "node_type": "item",
-              "title": "DenSinH/GBARoms",
-              "description": "DenSinH/GBARoms",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "One central repo for my small GBA assembly projects",
-                "homepage": null,
-                "id": 278297459,
-                "language": "Assembly",
-                "license": null,
-                "last_commit": "2021-12-31T11:10:11Z",
-                "open_issues": 0,
-                "owner": "DenSinH",
-                "repo": "GBARoms",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T14:36:37.932Z"
-            },
-            {
-              "node_type": "item",
               "title": "ladystarbreeze/GBA-Test-Collection",
               "description": "ladystarbreeze/GBA-Test-Collection",
               "children": [],
@@ -876,6 +855,27 @@
                 "open_issues": 0,
                 "owner": "ladystarbreeze",
                 "repo": "GBA-Test-Collection",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:36:37.932Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DenSinH/GBARoms",
+              "description": "DenSinH/GBARoms",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "One central repo for my small GBA assembly projects",
+                "homepage": null,
+                "id": 278297459,
+                "language": "Assembly",
+                "license": null,
+                "last_commit": "2021-12-31T11:10:11Z",
+                "open_issues": 0,
+                "owner": "DenSinH",
+                "repo": "GBARoms",
                 "stars": 9,
                 "topics": []
               },
@@ -1049,7 +1049,7 @@
                 "open_issues": 2,
                 "owner": "christopherpow",
                 "repo": "nes-test-roms",
-                "stars": 620,
+                "stars": 621,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1098,7 +1098,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5113,
+                "stars": 5114,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1396,7 +1396,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "grumpycoders/pcsx-redux",
+              "title": "pcsx-redux/pcsx-redux",
               "description": "really good one with debugger",
               "children": [],
               "repo_info": {
@@ -1406,9 +1406,9 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-25T07:05:34Z",
-                "open_issues": 88,
-                "owner": "grumpycoders",
+                "last_commit": "2026-10-26T06:09:55Z",
+                "open_issues": 82,
+                "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
                 "stars": 1029,
                 "topics": [
@@ -1461,7 +1461,7 @@
                 "open_issues": 0,
                 "owner": "PeterLemon",
                 "repo": "PSX",
-                "stars": 145,
+                "stars": 146,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1482,7 +1482,7 @@
                 "open_issues": 0,
                 "owner": "JaCzekanski",
                 "repo": "ps1-tests",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1520,7 +1520,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-25T03:24:05Z",
+                "last_commit": "2026-10-25T15:57:27Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1733,7 +1733,7 @@
             "open_issues": 1,
             "owner": "mattrbeck",
             "repo": "common-emudev-bugs",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:49:51.164Z",
+    "last_updated": "2026-10-26T08:09:02.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
