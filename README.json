@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5232,
+                "stars": 5234,
                 "topics": [
                   "cython",
                   "emulator",
@@ -315,7 +315,7 @@
                 "open_issues": 12,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4539,
+                "stars": 4538,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -624,7 +624,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1358,
+                "stars": 1359,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1000,7 +1000,7 @@
                 "open_issues": 5,
                 "owner": "davepoo",
                 "repo": "6502Emulator",
-                "stars": 605,
+                "stars": 606,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1098,7 +1098,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5114,
+                "stars": 5117,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1406,8 +1406,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-28T08:49:18Z",
-                "open_issues": 85,
+                "last_commit": "2026-10-29T03:26:56Z",
+                "open_issues": 81,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
                 "stars": 1033,
@@ -1552,7 +1552,7 @@
                 "open_issues": 47,
                 "owner": "m35",
                 "repo": "jpsxdec",
-                "stars": 607,
+                "stars": 608,
                 "topics": [
                   "audio",
                   "converter",
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T09:01:16.724Z",
+    "last_updated": "2026-10-29T08:58:46.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
