@@ -17,7 +17,7 @@
                 "id": 36501634,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T09:59:54Z",
+                "last_commit": "2026-10-29T13:56:28Z",
                 "open_issues": 20,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 655,
+                "stars": 656,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -315,7 +315,7 @@
                 "open_issues": 12,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4538,
+                "stars": 4539,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -624,7 +624,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1359,
+                "stars": 1360,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1049,7 +1049,7 @@
                 "open_issues": 2,
                 "owner": "christopherpow",
                 "repo": "nes-test-roms",
-                "stars": 623,
+                "stars": 625,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1406,11 +1406,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-29T03:26:56Z",
-                "open_issues": 81,
+                "last_commit": "2026-10-30T07:35:11Z",
+                "open_issues": 80,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
-                "stars": 1033,
+                "stars": 1034,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1598,7 +1598,7 @@
             "open_issues": 0,
             "owner": "spencertipping",
             "repo": "jit-tutorial",
-            "stars": 1934,
+            "stars": 1935,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T08:58:46.596Z",
+    "last_updated": "2026-10-30T09:04:58.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
