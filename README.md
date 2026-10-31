@@ -9,10 +9,10 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,234 | 🐛 20 | 🌐 Python | 📅 2026-10-29
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,234 | 🐛 19 | 🌐 Python | 📅 2026-10-30
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 464 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
-* cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 208 | 🐛 0 | 🌐 C | 📅 2026-01-25
-* gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 208 | 🐛 0 | 🌐 C | 📅 2026-01-25
+* cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 209 | 🐛 0 | 🌐 C | 📅 2026-01-25
+* gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 209 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * ppu docs <https://github.com/mattcurrie/mealybug-tearoom-tests/blob/master/the-comprehensive-game-boy-ppu-documentation.md> ⭐ 71 | 🐛 0 | 🌐 Assembly | 📅 2020-12-19
 * pandocs <http://bgb.bircd.org/pandocs.htm>
 * gb cycle timing <http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt>
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,539 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-26
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,540 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-26
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
 * gb resources <https://github.com/cslarsen/gameboy#references> ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-12-26
@@ -96,7 +96,7 @@
 ### Emulator source codes
 
 * <https://github.com/fleroviux/NanoboyAdvance> ⚠️ Archived
-* <https://github.com/AntonioND/giibiiadvance> ⭐ 208 | 🐛 0 | 🌐 C | 📅 2026-01-25 (includes gb and gbc)
+* <https://github.com/AntonioND/giibiiadvance> ⭐ 209 | 🐛 0 | 🌐 C | 📅 2026-01-25 (includes gb and gbc)
 * <https://github.com/DenSinH/DSHBA> ⭐ 71 | 🐛 0 | 🌐 C++ | 📅 2021-06-06
 
 ### Documentation
@@ -129,7 +129,7 @@
 
 ### Others
 
-* <https://github.com/gbdev/awesome-gbadev> ⭐ 1,360 | 🐛 6 | 📅 2026-01-30
+* <https://github.com/gbdev/awesome-gbadev> ⭐ 1,361 | 🐛 6 | 📅 2026-01-30
 * <https://github.com/JimB16/GBABios/blob/master/GBABios.s> ⭐ 7 | 🐛 0 | 🌐 Assembly | 📅 2015-10-02
 * gba resources <https://en.wikibooks.org/wiki/GBA_Development/Resources>
 * blog post <https://medium.com/@michelheily/hello-gba-journey-of-making-an-emulator-part-1-8793000e8606>
@@ -207,7 +207,7 @@
 ### Tests
 
 * <https://github.com/koute/pinky/tree/master/mos6502/roms> ⭐ 809 | 🐛 11 | 🌐 Rust | 📅 2023-11-27
-* <https://github.com/christopherpow/nes-test-roms> ⭐ 625 | 🐛 2 | 🌐 Assembly | 📅 2022-03-02
+* <https://github.com/christopherpow/nes-test-roms> ⭐ 627 | 🐛 2 | 🌐 Assembly | 📅 2022-03-02
 * <https://github.com/Klaus2m5/6502_65C02_functional_tests> ⭐ 530 | 🐛 5 | 📅 2023-03-07
 * <http://wiki.nesdev.com/w/index.php/Emulator_tests>
 * <http://www.qmtpro.com/~nes/misc/> (nestest inside)
@@ -228,7 +228,7 @@
 
 ### Implementation
 
-* <https://github.com/amhndu/SimpleNES> ⭐ 5,117 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
+* <https://github.com/amhndu/SimpleNES> ⭐ 5,119 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
 * <https://github.com/OneLoneCoder/olcNES> ⭐ 1,544 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
 * <https://github.com/AndreaOrru/LaiNES> ⭐ 1,518 | 🐛 10 | 🌐 C++ | 📅 2025-11-06
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2022-07-18
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,034 | 🐛 80 | 🌐 C++ | 📅 2026-10-30 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,036 | 🐛 82 | 🌐 C++ | 📅 2026-10-31 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -302,7 +302,7 @@
 * <https://github.com/PeterLemon/PSX> ⭐ 146 | 🐛 0 | 🌐 Assembly | 📅 2026-01-20 (fork: <https://github.com/RobertPeip/PSX> ⭐ 5 | 🐛 0 | 🌐 Assembly | 📅 2022-11-24)
 * <https://github.com/JaCzekanski/ps1-tests> ⭐ 95 | 🐛 0 | 🌐 C++ | 📅 2023-03-05
 * <https://github.com/simias/psx-hardware-tests/tree/master/tests> ⭐ 18 | 🐛 1 | 🌐 Assembly | 📅 2020-02-09
-* <https://github.com/nicolasnoble/pcsx-redux/tree/2f882a4d0bc8a83f13077f24538db6ab05c8247e/src/mips/tests/cdrom> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2026-10-27
+* <https://github.com/nicolasnoble/pcsx-redux/tree/2f882a4d0bc8a83f13077f24538db6ab05c8247e/src/mips/tests/cdrom> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2026-10-31
 * <https://emulation.gametechwiki.com/index.php/PS1_Tests>
 * <https://gitlab.com/psx-emu-dev/psx-hardware-tests/-/tree/master/src>
 * <https://www.pouet.net/prodlist.php?order=thumbup&platform%5B0%5D=Playstation&page=1>
@@ -316,7 +316,7 @@
 
 ## JIT
 
-* <https://github.com/spencertipping/jit-tutorial> ⭐ 1,935 | 🐛 0 | 🌐 C | 📅 2021-05-03
+* <https://github.com/spencertipping/jit-tutorial> ⭐ 1,937 | 🐛 0 | 🌐 C | 📅 2021-05-03
 * <https://github.com/tekknolagi/ghuloum> ⭐ 73 | 🐛 3 | 🌐 C | 📅 2025-11-15
 * <https://github.com/antocuni/jit30min> ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2019-07-11
 * <https://csl.name/post/python-jit/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

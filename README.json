@@ -17,8 +17,8 @@
                 "id": 36501634,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T13:56:28Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-30T17:22:24Z",
+                "open_issues": 19,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
                 "stars": 5234,
@@ -71,7 +71,7 @@
                 "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
-                "stars": 208,
+                "stars": 209,
                 "topics": [
                   "c",
                   "gameboy",
@@ -102,7 +102,7 @@
                 "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
-                "stars": 208,
+                "stars": 209,
                 "topics": [
                   "c",
                   "gameboy",
@@ -315,7 +315,7 @@
                 "open_issues": 12,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4539,
+                "stars": 4540,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -464,7 +464,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1311,
+                "stars": 1312,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -492,7 +492,7 @@
                 "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
-                "stars": 208,
+                "stars": 209,
                 "topics": [
                   "c",
                   "gameboy",
@@ -624,7 +624,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1360,
+                "stars": 1361,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1049,7 +1049,7 @@
                 "open_issues": 2,
                 "owner": "christopherpow",
                 "repo": "nes-test-roms",
-                "stars": 625,
+                "stars": 627,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1098,7 +1098,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5117,
+                "stars": 5119,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1406,11 +1406,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-30T07:35:11Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-31T00:07:24Z",
+                "open_issues": 82,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
-                "stars": 1034,
+                "stars": 1036,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1520,7 +1520,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-27T14:44:30Z",
+                "last_commit": "2026-10-31T06:24:28Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1598,7 +1598,7 @@
             "open_issues": 0,
             "owner": "spencertipping",
             "repo": "jit-tutorial",
-            "stars": 1935,
+            "stars": 1937,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T09:04:58.775Z",
+    "last_updated": "2026-10-31T08:57:36.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
