@@ -9,7 +9,7 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,234 | 🐛 19 | 🌐 Python | 📅 2026-10-30
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,235 | 🐛 18 | 🌐 Python | 📅 2026-10-30
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 464 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 209 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 209 | 🐛 0 | 🌐 C | 📅 2026-01-25
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,540 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-26
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,541 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-26
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
 * gb resources <https://github.com/cslarsen/gameboy#references> ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-12-26
@@ -129,7 +129,7 @@
 
 ### Others
 
-* <https://github.com/gbdev/awesome-gbadev> ⭐ 1,361 | 🐛 6 | 📅 2026-01-30
+* <https://github.com/gbdev/awesome-gbadev> ⭐ 1,362 | 🐛 6 | 📅 2026-01-30
 * <https://github.com/JimB16/GBABios/blob/master/GBABios.s> ⭐ 7 | 🐛 0 | 🌐 Assembly | 📅 2015-10-02
 * gba resources <https://en.wikibooks.org/wiki/GBA_Development/Resources>
 * blog post <https://medium.com/@michelheily/hello-gba-journey-of-making-an-emulator-part-1-8793000e8606>
@@ -207,7 +207,7 @@
 ### Tests
 
 * <https://github.com/koute/pinky/tree/master/mos6502/roms> ⭐ 809 | 🐛 11 | 🌐 Rust | 📅 2023-11-27
-* <https://github.com/christopherpow/nes-test-roms> ⭐ 627 | 🐛 2 | 🌐 Assembly | 📅 2022-03-02
+* <https://github.com/christopherpow/nes-test-roms> ⭐ 628 | 🐛 2 | 🌐 Assembly | 📅 2022-03-02
 * <https://github.com/Klaus2m5/6502_65C02_functional_tests> ⭐ 530 | 🐛 5 | 📅 2023-03-07
 * <http://wiki.nesdev.com/w/index.php/Emulator_tests>
 * <http://www.qmtpro.com/~nes/misc/> (nestest inside)
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,036 | 🐛 82 | 🌐 C++ | 📅 2026-10-31 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,037 | 🐛 80 | 🌐 C++ | 📅 2026-11-01 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
