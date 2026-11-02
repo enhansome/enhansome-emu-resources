@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5235,
+                "stars": 5234,
                 "topics": [
                   "cython",
                   "emulator",
@@ -312,7 +312,7 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-26T18:56:20Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
                 "stars": 4541,
@@ -1070,7 +1070,7 @@
                 "open_issues": 5,
                 "owner": "Klaus2m5",
                 "repo": "6502_65C02_functional_tests",
-                "stars": 530,
+                "stars": 531,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1098,7 +1098,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5119,
+                "stars": 5118,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1406,8 +1406,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-01T06:45:14Z",
-                "open_issues": 80,
+                "last_commit": "2026-11-02T07:25:30Z",
+                "open_issues": 76,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
                 "stars": 1037,
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T09:47:45.626Z",
+    "last_updated": "2026-11-02T10:05:58.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
