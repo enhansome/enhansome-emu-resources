@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5237,
+                "stars": 5236,
                 "topics": [
                   "cython",
                   "emulator",
@@ -71,7 +71,7 @@
                 "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "c",
                   "gameboy",
@@ -102,7 +102,7 @@
                 "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "c",
                   "gameboy",
@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 656,
+                "stars": 657,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -315,7 +315,7 @@
                 "open_issues": 13,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4541,
+                "stars": 4542,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -464,7 +464,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1310,
+                "stars": 1311,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -492,7 +492,7 @@
                 "open_issues": 0,
                 "owner": "AntonioND",
                 "repo": "giibiiadvance",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "c",
                   "gameboy",
@@ -1049,7 +1049,7 @@
                 "open_issues": 2,
                 "owner": "christopherpow",
                 "repo": "nes-test-roms",
-                "stars": 628,
+                "stars": 629,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1070,7 +1070,7 @@
                 "open_issues": 5,
                 "owner": "Klaus2m5",
                 "repo": "6502_65C02_functional_tests",
-                "stars": 531,
+                "stars": 532,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1098,7 +1098,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5118,
+                "stars": 5115,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1406,11 +1406,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-03T07:26:59Z",
-                "open_issues": 86,
+                "last_commit": "2026-11-05T08:38:28Z",
+                "open_issues": 77,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
-                "stars": 1036,
+                "stars": 1038,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1461,7 +1461,7 @@
                 "open_issues": 0,
                 "owner": "PeterLemon",
                 "repo": "PSX",
-                "stars": 146,
+                "stars": 147,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1598,7 +1598,7 @@
             "open_issues": 0,
             "owner": "spencertipping",
             "repo": "jit-tutorial",
-            "stars": 1937,
+            "stars": 1938,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T10:08:24.176Z",
+    "last_updated": "2026-11-05T09:55:02.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
@@ -1788,7 +1788,7 @@
       "open_issues": 0,
       "owner": "marethyu",
       "repo": "awesome-emu-resources",
-      "stars": 162,
+      "stars": 163,
       "topics": [
         "awesome",
         "awesome-list",
