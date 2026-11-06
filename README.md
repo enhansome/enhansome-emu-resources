@@ -9,8 +9,8 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,236 | 🐛 18 | 🌐 Python | 📅 2026-10-30
-* wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 464 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,235 | 🐛 18 | 🌐 Python | 📅 2026-10-30
+* wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 465 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 210 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 210 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * ppu docs <https://github.com/mattcurrie/mealybug-tearoom-tests/blob/master/the-comprehensive-game-boy-ppu-documentation.md> ⭐ 71 | 🐛 0 | 🌐 Assembly | 📅 2020-12-19
@@ -129,7 +129,7 @@
 
 ### Others
 
-* <https://github.com/gbdev/awesome-gbadev> ⭐ 1,363 | 🐛 6 | 📅 2026-01-30
+* <https://github.com/gbdev/awesome-gbadev> ⭐ 1,364 | 🐛 6 | 📅 2026-01-30
 * <https://github.com/JimB16/GBABios/blob/master/GBABios.s> ⭐ 7 | 🐛 0 | 🌐 Assembly | 📅 2015-10-02
 * gba resources <https://en.wikibooks.org/wiki/GBA_Development/Resources>
 * blog post <https://medium.com/@michelheily/hello-gba-journey-of-making-an-emulator-part-1-8793000e8606>
@@ -208,7 +208,7 @@
 
 * <https://github.com/koute/pinky/tree/master/mos6502/roms> ⭐ 809 | 🐛 11 | 🌐 Rust | 📅 2023-11-27
 * <https://github.com/christopherpow/nes-test-roms> ⭐ 629 | 🐛 2 | 🌐 Assembly | 📅 2022-03-02
-* <https://github.com/Klaus2m5/6502_65C02_functional_tests> ⭐ 532 | 🐛 5 | 📅 2023-03-07
+* <https://github.com/Klaus2m5/6502_65C02_functional_tests> ⭐ 533 | 🐛 5 | 📅 2023-03-07
 * <http://wiki.nesdev.com/w/index.php/Emulator_tests>
 * <http://www.qmtpro.com/~nes/misc/> (nestest inside)
 * <http://tasvideos.org/EmulatorResources/NESAccuracyTests.html>
@@ -229,7 +229,7 @@
 ### Implementation
 
 * <https://github.com/amhndu/SimpleNES> ⭐ 5,115 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
-* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,545 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
+* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,546 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
 * <https://github.com/AndreaOrru/LaiNES> ⭐ 1,518 | 🐛 10 | 🌐 C++ | 📅 2025-11-06
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2022-07-18
 * <https://github.com/Xyene/Emulator.NES> ⭐ 186 | 🐛 0 | 🌐 C# | 📅 2018-10-14
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,038 | 🐛 77 | 🌐 C++ | 📅 2026-11-05 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,038 | 🐛 73 | 🌐 C++ | 📅 2026-11-06 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

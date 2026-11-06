@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5236,
+                "stars": 5235,
                 "topics": [
                   "cython",
                   "emulator",
@@ -50,7 +50,7 @@
                 "open_issues": 5,
                 "owner": "Dooskington",
                 "repo": "GameLad",
-                "stars": 464,
+                "stars": 465,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -624,7 +624,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1363,
+                "stars": 1364,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1070,7 +1070,7 @@
                 "open_issues": 5,
                 "owner": "Klaus2m5",
                 "repo": "6502_65C02_functional_tests",
-                "stars": 532,
+                "stars": 533,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1124,7 +1124,7 @@
                 "open_issues": 41,
                 "owner": "OneLoneCoder",
                 "repo": "olcNES",
-                "stars": 1545,
+                "stars": 1546,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1406,8 +1406,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-05T08:38:28Z",
-                "open_issues": 77,
+                "last_commit": "2026-11-06T03:00:55Z",
+                "open_issues": 73,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
                 "stars": 1038,
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T09:55:02.189Z",
+    "last_updated": "2026-11-06T09:56:58.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
