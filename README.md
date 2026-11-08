@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,039 | 🐛 73 | 🌐 C++ | 📅 2026-11-07 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,039 | 🐛 73 | 🌐 C++ | 📅 2026-11-08 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -302,7 +302,7 @@
 * <https://github.com/PeterLemon/PSX> ⭐ 147 | 🐛 0 | 🌐 Assembly | 📅 2026-01-20 (fork: <https://github.com/RobertPeip/PSX> ⭐ 5 | 🐛 0 | 🌐 Assembly | 📅 2022-11-24)
 * <https://github.com/JaCzekanski/ps1-tests> ⭐ 95 | 🐛 0 | 🌐 C++ | 📅 2023-03-05
 * <https://github.com/simias/psx-hardware-tests/tree/master/tests> ⭐ 18 | 🐛 1 | 🌐 Assembly | 📅 2020-02-09
-* <https://github.com/nicolasnoble/pcsx-redux/tree/2f882a4d0bc8a83f13077f24538db6ab05c8247e/src/mips/tests/cdrom> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2026-10-31
+* <https://github.com/nicolasnoble/pcsx-redux/tree/2f882a4d0bc8a83f13077f24538db6ab05c8247e/src/mips/tests/cdrom> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2026-11-08
 * <https://emulation.gametechwiki.com/index.php/PS1_Tests>
 * <https://gitlab.com/psx-emu-dev/psx-hardware-tests/-/tree/master/src>
 * <https://www.pouet.net/prodlist.php?order=thumbup&platform%5B0%5D=Playstation&page=1>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
