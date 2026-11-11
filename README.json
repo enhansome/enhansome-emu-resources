@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5236,
+                "stars": 5237,
                 "topics": [
                   "cython",
                   "emulator",
@@ -133,7 +133,7 @@
                 "open_issues": 0,
                 "owner": "mattcurrie",
                 "repo": "mealybug-tearoom-tests",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "game-boy",
                   "gameboy",
@@ -165,7 +165,7 @@
                 "open_issues": 43,
                 "owner": "Gekkio",
                 "repo": "mooneye-gb",
-                "stars": 971,
+                "stars": 972,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 657,
+                "stars": 658,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -255,7 +255,7 @@
                 "open_issues": 0,
                 "owner": "mattcurrie",
                 "repo": "mealybug-tearoom-tests",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "game-boy",
                   "gameboy",
@@ -315,7 +315,7 @@
                 "open_issues": 13,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4548,
+                "stars": 4549,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -624,7 +624,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1364,
+                "stars": 1365,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1028,7 +1028,7 @@
                 "open_issues": 11,
                 "owner": "koute",
                 "repo": "pinky",
-                "stars": 809,
+                "stars": 810,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1070,7 +1070,7 @@
                 "open_issues": 5,
                 "owner": "Klaus2m5",
                 "repo": "6502_65C02_functional_tests",
-                "stars": 533,
+                "stars": 534,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1406,11 +1406,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-10T07:34:54Z",
-                "open_issues": 88,
+                "last_commit": "2026-11-11T08:56:37Z",
+                "open_issues": 84,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
-                "stars": 1041,
+                "stars": 1043,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T10:29:56.150Z",
+    "last_updated": "2026-11-11T09:54:00.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
