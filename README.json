@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 658,
+                "stars": 659,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1000,7 +1000,7 @@
                 "open_issues": 5,
                 "owner": "davepoo",
                 "repo": "6502Emulator",
-                "stars": 608,
+                "stars": 609,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1049,7 +1049,7 @@
                 "open_issues": 2,
                 "owner": "christopherpow",
                 "repo": "nes-test-roms",
-                "stars": 630,
+                "stars": 631,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1070,7 +1070,7 @@
                 "open_issues": 5,
                 "owner": "Klaus2m5",
                 "repo": "6502_65C02_functional_tests",
-                "stars": 534,
+                "stars": 535,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1098,7 +1098,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5114,
+                "stars": 5113,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1124,7 +1124,7 @@
                 "open_issues": 41,
                 "owner": "OneLoneCoder",
                 "repo": "olcNES",
-                "stars": 1546,
+                "stars": 1545,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1406,11 +1406,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-11T08:56:37Z",
-                "open_issues": 84,
+                "last_commit": "2026-11-12T10:06:21Z",
+                "open_issues": 86,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
-                "stars": 1043,
+                "stars": 1045,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1598,7 +1598,7 @@
             "open_issues": 0,
             "owner": "spencertipping",
             "repo": "jit-tutorial",
-            "stars": 1939,
+            "stars": 1940,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:54:00.893Z",
+    "last_updated": "2026-11-12T10:22:09.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
