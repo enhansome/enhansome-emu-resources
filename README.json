@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 659,
+                "stars": 660,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -213,7 +213,7 @@
                 "open_issues": 0,
                 "owner": "c-sp",
                 "repo": "game-boy-test-roms",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "blargg",
                   "bullygb",
@@ -1098,7 +1098,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5115,
+                "stars": 5116,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1124,7 +1124,7 @@
                 "open_issues": 41,
                 "owner": "OneLoneCoder",
                 "repo": "olcNES",
-                "stars": 1545,
+                "stars": 1546,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1406,8 +1406,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-13T09:50:31Z",
-                "open_issues": 91,
+                "last_commit": "2026-11-14T06:02:35Z",
+                "open_issues": 102,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
                 "stars": 1045,
@@ -1520,7 +1520,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-13T07:41:34Z",
+                "last_commit": "2026-11-14T03:19:19Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T10:05:26.111Z",
+    "last_updated": "2026-11-14T09:31:08.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
