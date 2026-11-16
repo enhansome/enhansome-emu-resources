@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 660,
+                "stars": 661,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -311,11 +311,11 @@
                 "id": 52347647,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T18:56:20Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-15T21:07:37Z",
+                "open_issues": 12,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4550,
+                "stars": 4551,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -1049,7 +1049,7 @@
                 "open_issues": 2,
                 "owner": "christopherpow",
                 "repo": "nes-test-roms",
-                "stars": 632,
+                "stars": 633,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1406,8 +1406,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-15T09:32:19Z",
-                "open_issues": 88,
+                "last_commit": "2026-11-16T08:44:48Z",
+                "open_issues": 84,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
                 "stars": 1046,
@@ -1754,7 +1754,7 @@
             "open_issues": 0,
             "owner": "MoleskiCoder",
             "repo": "EightBit",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "2a03",
               "6502",
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T09:57:55.548Z",
+    "last_updated": "2026-11-16T10:12:15.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",

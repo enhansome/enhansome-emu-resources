@@ -41,7 +41,7 @@
 ### Tests
 
 * mooneye gb test roms <https://github.com/Gekkio/mooneye-gb/tree/master/tests> ⭐ 972 | 🐛 43 | 🌐 Rust | 📅 2023-03-16
-* test roms <https://github.com/retrio/gb-test-roms> ⭐ 660 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
+* test roms <https://github.com/retrio/gb-test-roms> ⭐ 661 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
 * collection of test roms <https://github.com/c-sp/gameboy-test-roms> ⭐ 260 | 🐛 0 | 🌐 Shell | 📅 2025-04-27
 * yet another test roms <https://github.com/mattcurrie/mealybug-tearoom-tests> ⭐ 72 | 🐛 0 | 🌐 Assembly | 📅 2020-12-19
 * blargg tests <https://gbdev.gg8.se/files/roms/blargg-gb-tests/>
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,550 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-26
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,551 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-15
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
 * gb resources <https://github.com/cslarsen/gameboy#references> ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-12-26
@@ -207,7 +207,7 @@
 ### Tests
 
 * <https://github.com/koute/pinky/tree/master/mos6502/roms> ⭐ 810 | 🐛 11 | 🌐 Rust | 📅 2023-11-27
-* <https://github.com/christopherpow/nes-test-roms> ⭐ 632 | 🐛 2 | 🌐 Assembly | 📅 2022-03-02
+* <https://github.com/christopherpow/nes-test-roms> ⭐ 633 | 🐛 2 | 🌐 Assembly | 📅 2022-03-02
 * <https://github.com/Klaus2m5/6502_65C02_functional_tests> ⭐ 535 | 🐛 5 | 📅 2023-03-07
 * <http://wiki.nesdev.com/w/index.php/Emulator_tests>
 * <http://www.qmtpro.com/~nes/misc/> (nestest inside)
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,046 | 🐛 88 | 🌐 C++ | 📅 2026-11-15 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,046 | 🐛 84 | 🌐 C++ | 📅 2026-11-16 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -326,7 +326,7 @@
 * emu docs <https://github.com/shonumi/Emu-Docs> ⭐ 97 | 🐛 0 | 🌐 HTML | 📅 2015-10-29
 * japanese docs <https://github.com/pokemium/emu-docs-ja> ⭐ 27 | 🐛 0 | 📅 2025-08-15
 * Common bugs <https://github.com/mattrberry/common-emudev-bugs> ⭐ 19 | 🐛 1 | 📅 2025-06-28
-* collection of 8 bit processor emulators <https://github.com/MoleskiCoder/EightBit> ⭐ 17 | 🐛 0 | 🌐 C++ | 📅 2026-09-27
+* collection of 8 bit processor emulators <https://github.com/MoleskiCoder/EightBit> ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2026-09-27
 * emudev <http://emudev.de/>
 * Guide to writing emulators <http://emulator101.com/>
 * How emulators work <http://imrannazar.com/How-Emulators-Work%3A-a-presentation>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
