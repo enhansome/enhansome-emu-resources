@@ -311,11 +311,11 @@
                 "id": 52347647,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-15T21:07:37Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-16T16:28:21Z",
+                "open_issues": 11,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4551,
+                "stars": 4553,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -1049,7 +1049,7 @@
                 "open_issues": 2,
                 "owner": "christopherpow",
                 "repo": "nes-test-roms",
-                "stars": 633,
+                "stars": 634,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1124,7 +1124,7 @@
                 "open_issues": 41,
                 "owner": "OneLoneCoder",
                 "repo": "olcNES",
-                "stars": 1546,
+                "stars": 1547,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1141,8 +1141,8 @@
                 "id": 14239434,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2025-11-06T05:52:09Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-17T06:54:44Z",
+                "open_issues": 7,
                 "owner": "AndreaOrru",
                 "repo": "LaiNES",
                 "stars": 1518,
@@ -1406,8 +1406,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-16T08:44:48Z",
-                "open_issues": 84,
+                "last_commit": "2026-11-17T07:28:29Z",
+                "open_issues": 82,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
                 "stars": 1046,
@@ -1520,7 +1520,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-14T16:45:00Z",
+                "last_commit": "2026-11-17T09:40:24Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T10:12:15.641Z",
+    "last_updated": "2026-11-17T11:14:45.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
