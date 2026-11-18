@@ -315,7 +315,7 @@
                 "open_issues": 11,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4553,
+                "stars": 4555,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -464,7 +464,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1311,
+                "stars": 1312,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -624,7 +624,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1365,
+                "stars": 1366,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -729,7 +729,7 @@
                 "open_issues": 9,
                 "owner": "mgba-emu",
                 "repo": "suite",
-                "stars": 103,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1406,8 +1406,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-17T07:28:29Z",
-                "open_issues": 82,
+                "last_commit": "2026-11-18T09:32:09Z",
+                "open_issues": 70,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
                 "stars": 1046,
@@ -1520,7 +1520,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-17T09:40:24Z",
+                "last_commit": "2026-11-18T07:53:09Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1552,7 +1552,7 @@
                 "open_issues": 47,
                 "owner": "m35",
                 "repo": "jpsxdec",
-                "stars": 613,
+                "stars": 614,
                 "topics": [
                   "audio",
                   "converter",
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T11:14:45.253Z",
+    "last_updated": "2026-11-18T10:46:23.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
