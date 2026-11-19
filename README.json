@@ -315,7 +315,7 @@
                 "open_issues": 11,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4555,
+                "stars": 4554,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -624,7 +624,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1366,
+                "stars": 1367,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1070,7 +1070,7 @@
                 "open_issues": 5,
                 "owner": "Klaus2m5",
                 "repo": "6502_65C02_functional_tests",
-                "stars": 535,
+                "stars": 536,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1382,7 +1382,7 @@
                 "open_issues": 8,
                 "owner": "simias",
                 "repo": "psx-guide",
-                "stars": 315,
+                "stars": 314,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1406,8 +1406,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-18T09:32:09Z",
-                "open_issues": 70,
+                "last_commit": "2026-11-19T06:58:52Z",
+                "open_issues": 76,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
                 "stars": 1046,
@@ -1520,7 +1520,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-18T07:53:09Z",
+                "last_commit": "2026-11-19T01:30:59Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1619,7 +1619,7 @@
             "open_issues": 3,
             "owner": "tekknolagi",
             "repo": "ghuloum",
-            "stars": 73,
+            "stars": 74,
             "topics": [
               "c",
               "compiler",
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T10:46:23.445Z",
+    "last_updated": "2026-11-19T10:47:29.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
