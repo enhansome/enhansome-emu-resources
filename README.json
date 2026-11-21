@@ -1169,8 +1169,8 @@
                 "id": 207490927,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2022-07-18T08:42:33Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-20T14:02:00Z",
+                "open_issues": 0,
                 "owner": "wpmed92",
                 "repo": "MedNES",
                 "stars": 226,
@@ -1406,8 +1406,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-20T06:32:24Z",
-                "open_issues": 72,
+                "last_commit": "2026-11-21T10:08:49Z",
+                "open_issues": 65,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
                 "stars": 1046,
@@ -1552,7 +1552,7 @@
                 "open_issues": 47,
                 "owner": "m35",
                 "repo": "jpsxdec",
-                "stars": 613,
+                "stars": 614,
                 "topics": [
                   "audio",
                   "converter",
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T10:36:32.516Z",
+    "last_updated": "2026-11-21T10:16:39.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
