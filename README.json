@@ -315,7 +315,7 @@
                 "open_issues": 11,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4553,
+                "stars": 4554,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -1098,7 +1098,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5116,
+                "stars": 5115,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1201,7 +1201,7 @@
                 "open_issues": 0,
                 "owner": "Xyene",
                 "repo": "Emulator.NES",
-                "stars": 186,
+                "stars": 187,
                 "topics": [
                   "csharp",
                   "emulator",
@@ -1406,8 +1406,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-21T10:08:49Z",
-                "open_issues": 65,
+                "last_commit": "2026-11-22T09:52:30Z",
+                "open_issues": 64,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
                 "stars": 1046,
@@ -1552,7 +1552,7 @@
                 "open_issues": 47,
                 "owner": "m35",
                 "repo": "jpsxdec",
-                "stars": 614,
+                "stars": 615,
                 "topics": [
                   "audio",
                   "converter",
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T10:16:39.372Z",
+    "last_updated": "2026-11-22T10:22:47.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
