@@ -9,7 +9,7 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,240 | 🐛 18 | 🌐 Python | 📅 2026-10-30
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,241 | 🐛 18 | 🌐 Python | 📅 2026-10-30
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 465 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 210 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 210 | 🐛 0 | 🌐 C | 📅 2026-01-25
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,554 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-19
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,556 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-19
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
 * gb resources <https://github.com/cslarsen/gameboy#references> ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-12-26
@@ -228,7 +228,7 @@
 
 ### Implementation
 
-* <https://github.com/amhndu/SimpleNES> ⭐ 5,115 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
+* <https://github.com/amhndu/SimpleNES> ⭐ 5,114 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
 * <https://github.com/OneLoneCoder/olcNES> ⭐ 1,546 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
 * <https://github.com/AndreaOrru/LaiNES> ⭐ 1,518 | 🐛 7 | 🌐 C++ | 📅 2026-11-17
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2026-11-20
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,046 | 🐛 64 | 🌐 C++ | 📅 2026-11-22 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,046 | 🐛 64 | 🌐 C++ | 📅 2026-11-23 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -302,7 +302,7 @@
 * <https://github.com/PeterLemon/PSX> ⭐ 147 | 🐛 0 | 🌐 Assembly | 📅 2026-01-20 (fork: <https://github.com/RobertPeip/PSX> ⭐ 5 | 🐛 0 | 🌐 Assembly | 📅 2022-11-24)
 * <https://github.com/JaCzekanski/ps1-tests> ⭐ 95 | 🐛 0 | 🌐 C++ | 📅 2023-03-05
 * <https://github.com/simias/psx-hardware-tests/tree/master/tests> ⭐ 18 | 🐛 1 | 🌐 Assembly | 📅 2020-02-09
-* <https://github.com/nicolasnoble/pcsx-redux/tree/2f882a4d0bc8a83f13077f24538db6ab05c8247e/src/mips/tests/cdrom> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2026-11-19
+* <https://github.com/nicolasnoble/pcsx-redux/tree/2f882a4d0bc8a83f13077f24538db6ab05c8247e/src/mips/tests/cdrom> ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2026-11-23
 * <https://emulation.gametechwiki.com/index.php/PS1_Tests>
 * <https://gitlab.com/psx-emu-dev/psx-hardware-tests/-/tree/master/src>
 * <https://www.pouet.net/prodlist.php?order=thumbup&platform%5B0%5D=Playstation&page=1>
@@ -316,7 +316,7 @@
 
 ## JIT
 
-* <https://github.com/spencertipping/jit-tutorial> ⭐ 1,938 | 🐛 0 | 🌐 C | 📅 2021-05-03
+* <https://github.com/spencertipping/jit-tutorial> ⭐ 1,937 | 🐛 0 | 🌐 C | 📅 2021-05-03
 * <https://github.com/tekknolagi/ghuloum> ⭐ 74 | 🐛 3 | 🌐 C | 📅 2025-11-15
 * <https://github.com/antocuni/jit30min> ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2019-07-11
 * <https://csl.name/post/python-jit/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
