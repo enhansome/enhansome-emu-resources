@@ -1070,7 +1070,7 @@
                 "open_issues": 5,
                 "owner": "Klaus2m5",
                 "repo": "6502_65C02_functional_tests",
-                "stars": 536,
+                "stars": 537,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1145,7 +1145,7 @@
                 "open_issues": 7,
                 "owner": "AndreaOrru",
                 "repo": "LaiNES",
-                "stars": 1518,
+                "stars": 1517,
                 "topics": [
                   "emulator",
                   "emulators",
@@ -1406,11 +1406,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-23T10:42:52Z",
-                "open_issues": 64,
+                "last_commit": "2026-11-24T07:05:24Z",
+                "open_issues": 87,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
-                "stars": 1046,
+                "stars": 1047,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1598,7 +1598,7 @@
             "open_issues": 0,
             "owner": "spencertipping",
             "repo": "jit-tutorial",
-            "stars": 1937,
+            "stars": 1938,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T11:21:30.819Z",
+    "last_updated": "2026-11-24T12:57:40.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",

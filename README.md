@@ -208,7 +208,7 @@
 
 * <https://github.com/koute/pinky/tree/master/mos6502/roms> ⭐ 809 | 🐛 10 | 🌐 Rust | 📅 2023-11-27
 * <https://github.com/christopherpow/nes-test-roms> ⭐ 635 | 🐛 2 | 🌐 Assembly | 📅 2022-03-02
-* <https://github.com/Klaus2m5/6502_65C02_functional_tests> ⭐ 536 | 🐛 5 | 📅 2023-03-07
+* <https://github.com/Klaus2m5/6502_65C02_functional_tests> ⭐ 537 | 🐛 5 | 📅 2023-03-07
 * <http://wiki.nesdev.com/w/index.php/Emulator_tests>
 * <http://www.qmtpro.com/~nes/misc/> (nestest inside)
 * <http://tasvideos.org/EmulatorResources/NESAccuracyTests.html>
@@ -230,7 +230,7 @@
 
 * <https://github.com/amhndu/SimpleNES> ⭐ 5,114 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
 * <https://github.com/OneLoneCoder/olcNES> ⭐ 1,546 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
-* <https://github.com/AndreaOrru/LaiNES> ⭐ 1,518 | 🐛 7 | 🌐 C++ | 📅 2026-11-17
+* <https://github.com/AndreaOrru/LaiNES> ⭐ 1,517 | 🐛 7 | 🌐 C++ | 📅 2026-11-17
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2026-11-20
 * <https://github.com/Xyene/Emulator.NES> ⭐ 187 | 🐛 0 | 🌐 C# | 📅 2018-10-14
 * <https://github.com/yizhang82/neschan> ⭐ 151 | 🐛 2 | 🌐 C++ | 📅 2025-08-10
@@ -292,7 +292,7 @@
 
 ### Emulators
 
-* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,046 | 🐛 64 | 🌐 C++ | 📅 2026-11-23 - really good one with debugger
+* <https://github.com/grumpycoders/pcsx-redux> ⭐ 1,047 | 🐛 87 | 🌐 C++ | 📅 2026-11-24 - really good one with debugger
 * <https://github.com/UnsafePointer/ruby> ⭐ 27 | 🐛 0 | 🌐 C++ | 📅 2020-05-19
 * no$psx <https://problemkaputt.de/psx.htm>
 * <https://gitlab.com/flio/rustation-ng/>
@@ -316,7 +316,7 @@
 
 ## JIT
 
-* <https://github.com/spencertipping/jit-tutorial> ⭐ 1,937 | 🐛 0 | 🌐 C | 📅 2021-05-03
+* <https://github.com/spencertipping/jit-tutorial> ⭐ 1,938 | 🐛 0 | 🌐 C | 📅 2021-05-03
 * <https://github.com/tekknolagi/ghuloum> ⭐ 74 | 🐛 3 | 🌐 C | 📅 2025-11-15
 * <https://github.com/antocuni/jit30min> ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2019-07-11
 * <https://csl.name/post/python-jit/>
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
