@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "Baekalfen",
                 "repo": "PyBoy",
-                "stars": 5241,
+                "stars": 5242,
                 "topics": [
                   "cython",
                   "emulator",
@@ -315,7 +315,7 @@
                 "open_issues": 11,
                 "owner": "gbdev",
                 "repo": "awesome-gbdev",
-                "stars": 4556,
+                "stars": 4557,
                 "topics": [
                   "assembler",
                   "awesome",
@@ -464,7 +464,7 @@
                 "open_issues": 71,
                 "owner": "nba-emu",
                 "repo": "NanoBoyAdvance",
-                "stars": 1312,
+                "stars": 1313,
                 "topics": [
                   "cycle-accurate",
                   "emulator",
@@ -1000,7 +1000,7 @@
                 "open_issues": 5,
                 "owner": "davepoo",
                 "repo": "6502Emulator",
-                "stars": 610,
+                "stars": 609,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1098,7 +1098,7 @@
                 "open_issues": 8,
                 "owner": "amhndu",
                 "repo": "SimpleNES",
-                "stars": 5114,
+                "stars": 5113,
                 "topics": [
                   "c-plus-plus",
                   "emulator",
@@ -1145,7 +1145,7 @@
                 "open_issues": 7,
                 "owner": "AndreaOrru",
                 "repo": "LaiNES",
-                "stars": 1517,
+                "stars": 1518,
                 "topics": [
                   "emulator",
                   "emulators",
@@ -1406,8 +1406,8 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-24T07:05:24Z",
-                "open_issues": 87,
+                "last_commit": "2026-11-25T03:04:16Z",
+                "open_issues": 89,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
                 "stars": 1047,
@@ -1482,7 +1482,7 @@
                 "open_issues": 0,
                 "owner": "JaCzekanski",
                 "repo": "ps1-tests",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1520,7 +1520,7 @@
                 "id": 161513926,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-23T06:07:26Z",
+                "last_commit": "2026-11-25T04:43:09Z",
                 "open_issues": 1,
                 "owner": "nicolasnoble",
                 "repo": "pcsx-redux",
@@ -1552,7 +1552,7 @@
                 "open_issues": 47,
                 "owner": "m35",
                 "repo": "jpsxdec",
-                "stars": 615,
+                "stars": 616,
                 "topics": [
                   "audio",
                   "converter",
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T12:57:40.623Z",
+    "last_updated": "2026-11-25T11:47:32.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
