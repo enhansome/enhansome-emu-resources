@@ -192,7 +192,7 @@
                 "open_issues": 4,
                 "owner": "retrio",
                 "repo": "gb-test-roms",
-                "stars": 662,
+                "stars": 663,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -624,7 +624,7 @@
                 "open_issues": 6,
                 "owner": "gbadev-org",
                 "repo": "awesome-gbadev",
-                "stars": 1366,
+                "stars": 1367,
                 "topics": [
                   "awesome-list",
                   "emulator-development",
@@ -1049,7 +1049,7 @@
                 "open_issues": 2,
                 "owner": "christopherpow",
                 "repo": "nes-test-roms",
-                "stars": 635,
+                "stars": 636,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1124,7 +1124,7 @@
                 "open_issues": 41,
                 "owner": "OneLoneCoder",
                 "repo": "olcNES",
-                "stars": 1547,
+                "stars": 1546,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:37.932Z"
@@ -1406,11 +1406,11 @@
                 "id": 161444705,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-26T10:18:21Z",
-                "open_issues": 86,
+                "last_commit": "2026-11-27T10:46:26Z",
+                "open_issues": 82,
                 "owner": "pcsx-redux",
                 "repo": "pcsx-redux",
-                "stars": 1047,
+                "stars": 1049,
                 "topics": [
                   "playstation-emulator"
                 ]
@@ -1776,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T11:32:58.513Z",
+    "last_updated": "2026-11-27T11:28:18.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of emulator development resources",
