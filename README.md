@@ -9,7 +9,7 @@
 
 ### Documentation
 
-* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,242 | 🐛 18 | 🌐 Python | 📅 2026-10-30
+* gb overview <https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf> ⭐ 5,243 | 🐛 18 | 🌐 Python | 📅 2026-10-30
 * wiki <https://github.com/dooskington/gamelad/wiki> ⭐ 465 | 🐛 5 | 🌐 C++ | 📅 2026-08-21
 * cycle accurate gb docs <https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf> ⭐ 210 | 🐛 0 | 🌐 C | 📅 2026-01-25
 * gb sound <https://github.com/AntonioND/giibiiadvance/blob/master/docs/other_docs/GBSOUND.txt> ⭐ 210 | 🐛 0 | 🌐 C | 📅 2026-01-25
@@ -41,7 +41,7 @@
 ### Tests
 
 * mooneye gb test roms <https://github.com/Gekkio/mooneye-gb/tree/master/tests> ⭐ 967 | 🐛 43 | 🌐 Rust | 📅 2023-03-16
-* test roms <https://github.com/retrio/gb-test-roms> ⭐ 663 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
+* test roms <https://github.com/retrio/gb-test-roms> ⭐ 664 | 🐛 4 | 🌐 Assembly | 📅 2015-06-25
 * collection of test roms <https://github.com/c-sp/gameboy-test-roms> ⭐ 260 | 🐛 0 | 🌐 Shell | 📅 2025-04-27
 * yet another test roms <https://github.com/mattcurrie/mealybug-tearoom-tests> ⭐ 72 | 🐛 0 | 🌐 Assembly | 📅 2020-12-19
 * blargg tests <https://gbdev.gg8.se/files/roms/blargg-gb-tests/>
@@ -68,7 +68,7 @@
 
 ### Others
 
-* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,558 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-19
+* awesome list of gb resources <https://github.com/gbdev/awesome-gbdev> ⭐ 4,559 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-19
 * gb gotchas <https://github.com/fwsGonzo/gamebro/blob/master/POSTERITY.md> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-03-19
 * gpu implementation <https://github.com/mattbruv/Gameboy-Crust/blob/master/src/core/gpu.rs> ⚠️ Archived
 * gb resources <https://github.com/cslarsen/gameboy#references> ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2017-12-26
@@ -228,8 +228,8 @@
 
 ### Implementation
 
-* <https://github.com/amhndu/SimpleNES> ⭐ 5,114 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
-* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,546 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
+* <https://github.com/amhndu/SimpleNES> ⭐ 5,113 | 🐛 8 | 🌐 C++ | 📅 2025-10-05
+* <https://github.com/OneLoneCoder/olcNES> ⭐ 1,547 | 🐛 41 | 🌐 C++ | 📅 2024-01-09
 * <https://github.com/AndreaOrru/LaiNES> ⭐ 1,517 | 🐛 7 | 🌐 C++ | 📅 2026-11-17
 * <https://github.com/wpmed92/MedNES> ⭐ 226 | 🐛 0 | 🌐 C++ | 📅 2026-11-20
 * <https://github.com/Xyene/Emulator.NES> ⭐ 187 | 🐛 0 | 🌐 C# | 📅 2018-10-14
@@ -309,7 +309,7 @@
 
 ### Others
 
-* <https://github.com/m35/jpsxdec/blob/readme/jpsxdec/PlayStation1_STR_format.txt> ⭐ 617 | 🐛 48 | 🌐 Java | 📅 2026-05-17
+* <https://github.com/m35/jpsxdec/blob/readme/jpsxdec/PlayStation1_STR_format.txt> ⭐ 616 | 🐛 48 | 🌐 Java | 📅 2026-05-17
 * <https://emudev.org/2020/03/27/PSX_BIOS.html>
 * psx section in <https://emudev.org/system_resources>
 * <http://lameguy64.net/tutorials/pstutorials/index.html> (has some good explanations on various stuff)
@@ -340,4 +340,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
